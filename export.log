@@ -1,0 +1,927 @@
+2020-05-16 17:41:02,269 INFO  Logger.cs: 70 - 
+--------------------------------------------------------------------------------
+2020-05-16 17:41:02,301 INFO  Logger.cs: 71 - Logging commencing for SW2URDF exporter
+2020-05-16 17:41:02,303 INFO  Logger.cs: 73 - Commit version 1.5.1-0-g916b5db
+2020-05-16 17:41:02,303 INFO  Logger.cs: 74 - Build version 1.5.7152.31018
+2020-05-16 17:41:02,320 INFO  SwAddin.cs: 250 - Adding Assembly export to file menu
+2020-05-16 17:41:02,321 INFO  SwAddin.cs: 253 - Adding Part export to file menu
+2020-05-16 17:41:02,501 INFO  SwAddin.cs: 218 - Connecting plugin to SolidWorks
+2020-05-16 17:41:20,780 INFO  SwAddin.cs: 271 - Assembly export called for file ×Ü×°1.SLDASM
+2020-05-16 17:41:29,899 INFO  SwAddin.cs: 290 - Saving assembly
+2020-05-16 17:41:30,236 INFO  SwAddin.cs: 293 - Opening property manager
+2020-05-16 17:41:30,250 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ×Ü×°1.SLDASM
+2020-05-16 17:41:30,283 INFO  ExportHelperExtension.cs: 1142 - Found 149 in ×Ü×°1.SLDASM
+2020-05-16 17:41:30,285 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ×Ü×°1.SLDASM
+2020-05-16 17:41:30,285 INFO  ExportHelperExtension.cs: 1155 - Proceeding through assembly components
+2020-05-16 17:41:30,286 INFO  ExportHelperExtension.cs: 1167 - 71 components to check
+2020-05-16 17:41:30,287 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ÖÐ¼äºó±ß»¤°å-1
+2020-05-16 17:41:30,288 INFO  ExportHelperExtension.cs: 1142 - Found 221 in ÖÐ¼äºó±ß»¤°å-1
+2020-05-16 17:41:30,289 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ÖÐ¼äºó±ß»¤°å-1
+2020-05-16 17:41:30,290 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Ç°¹Ì¶¨¸Ë-1
+2020-05-16 17:41:30,290 INFO  ExportHelperExtension.cs: 1142 - Found 25 in Ç°¹Ì¶¨¸Ë-1
+2020-05-16 17:41:30,291 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Ç°¹Ì¶¨¸Ë-1
+2020-05-16 17:41:30,291 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Ë¨¸Ë-4
+2020-05-16 17:41:30,291 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Ë¨¸Ë-4
+2020-05-16 17:41:30,292 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Ë¨¸Ë-4
+2020-05-16 17:41:30,292 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-2
+2020-05-16 17:41:30,292 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-2
+2020-05-16 17:41:30,293 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-2
+2020-05-16 17:41:30,293 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-1
+2020-05-16 17:41:30,294 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-1
+2020-05-16 17:41:30,294 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-1
+2020-05-16 17:41:30,295 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-35
+2020-05-16 17:41:30,295 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-35
+2020-05-16 17:41:30,295 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-35
+2020-05-16 17:41:30,296 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ¾µÏò·À»¬¿é-1
+2020-05-16 17:41:30,296 INFO  ExportHelperExtension.cs: 1142 - Found 29 in ¾µÏò·À»¬¿é-1
+2020-05-16 17:41:30,297 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ¾µÏò·À»¬¿é-1
+2020-05-16 17:41:30,297 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ´¬µ×-1
+2020-05-16 17:41:30,298 INFO  ExportHelperExtension.cs: 1142 - Found 146 in ´¬µ×-1
+2020-05-16 17:41:30,302 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ´¬µ×-1
+2020-05-16 17:41:30,303 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ÖÐ¼ä»¤°å-1
+2020-05-16 17:41:30,470 INFO  ExportHelperExtension.cs: 1142 - Found 219 in ÖÐ¼ä»¤°å-1
+2020-05-16 17:41:30,471 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ÖÐ¼ä»¤°å-1
+2020-05-16 17:41:30,472 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Ë¨¸Ë-1
+2020-05-16 17:41:30,472 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Ë¨¸Ë-1
+2020-05-16 17:41:30,473 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Ë¨¸Ë-1
+2020-05-16 17:41:30,473 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Ë¨¸Ë-2
+2020-05-16 17:41:30,473 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Ë¨¸Ë-2
+2020-05-16 17:41:30,474 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Ë¨¸Ë-2
+2020-05-16 17:41:30,474 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Ë¨¸Ë-3
+2020-05-16 17:41:30,474 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Ë¨¸Ë-3
+2020-05-16 17:41:30,475 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Ë¨¸Ë-3
+2020-05-16 17:41:30,475 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ´¬²àÏËÀ­¸Ë-1
+2020-05-16 17:41:30,476 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-1
+2020-05-16 17:41:30,476 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ´¬²àÏËÀ­¸Ë-1
+2020-05-16 17:41:30,476 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ºóÆ½Ì¨Â¥ÌÝ-3
+2020-05-16 17:41:30,477 INFO  ExportHelperExtension.cs: 1142 - Found 33 in ºóÆ½Ì¨Â¥ÌÝ-3
+2020-05-16 17:41:30,477 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ºóÆ½Ì¨Â¥ÌÝ-3
+2020-05-16 17:41:30,477 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ´¬²àÏËÀ­¸Ë-2
+2020-05-16 17:41:30,478 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-2
+2020-05-16 17:41:30,478 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ´¬²àÏËÀ­¸Ë-2
+2020-05-16 17:41:30,479 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ºóÆ½Ì¨Â¥ÌÝ-4
+2020-05-16 17:41:30,479 INFO  ExportHelperExtension.cs: 1142 - Found 33 in ºóÆ½Ì¨Â¥ÌÝ-4
+2020-05-16 17:41:30,479 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ºóÆ½Ì¨Â¥ÌÝ-4
+2020-05-16 17:41:30,480 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ´¬Íâ¿ò-1
+2020-05-16 17:41:30,480 INFO  ExportHelperExtension.cs: 1142 - Found 109 in ´¬Íâ¿ò-1
+2020-05-16 17:41:30,481 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ´¬Íâ¿ò-1
+2020-05-16 17:41:30,481 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-27
+2020-05-16 17:41:30,482 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-27
+2020-05-16 17:41:30,482 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-27
+2020-05-16 17:41:30,483 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-28
+2020-05-16 17:41:30,483 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-28
+2020-05-16 17:41:30,483 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-28
+2020-05-16 17:41:30,484 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-12
+2020-05-16 17:41:30,484 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-12
+2020-05-16 17:41:30,484 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-12
+2020-05-16 17:41:30,485 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-13
+2020-05-16 17:41:30,485 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-13
+2020-05-16 17:41:30,486 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-13
+2020-05-16 17:41:30,486 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-8
+2020-05-16 17:41:30,486 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-8
+2020-05-16 17:41:30,487 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-8
+2020-05-16 17:41:30,487 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-14
+2020-05-16 17:41:30,487 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-14
+2020-05-16 17:41:30,488 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-14
+2020-05-16 17:41:30,488 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-15
+2020-05-16 17:41:30,488 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-15
+2020-05-16 17:41:30,489 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-15
+2020-05-16 17:41:30,489 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-22
+2020-05-16 17:41:30,489 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-22
+2020-05-16 17:41:30,490 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-22
+2020-05-16 17:41:30,490 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-6
+2020-05-16 17:41:30,491 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-6
+2020-05-16 17:41:30,492 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-6
+2020-05-16 17:41:30,493 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-9
+2020-05-16 17:41:30,493 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-9
+2020-05-16 17:41:30,494 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-9
+2020-05-16 17:41:30,494 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-16
+2020-05-16 17:41:30,495 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-16
+2020-05-16 17:41:30,495 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-16
+2020-05-16 17:41:30,495 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-23
+2020-05-16 17:41:30,496 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-23
+2020-05-16 17:41:30,496 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-23
+2020-05-16 17:41:30,496 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-3
+2020-05-16 17:41:30,497 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-3
+2020-05-16 17:41:30,497 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-3
+2020-05-16 17:41:30,498 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-17
+2020-05-16 17:41:30,498 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-17
+2020-05-16 17:41:30,498 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-17
+2020-05-16 17:41:30,499 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-19
+2020-05-16 17:41:30,499 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-19
+2020-05-16 17:41:30,499 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-19
+2020-05-16 17:41:30,500 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-10
+2020-05-16 17:41:30,500 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-10
+2020-05-16 17:41:30,501 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-10
+2020-05-16 17:41:30,501 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-20
+2020-05-16 17:41:30,501 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-20
+2020-05-16 17:41:30,502 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-20
+2020-05-16 17:41:30,502 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-4
+2020-05-16 17:41:30,502 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-4
+2020-05-16 17:41:30,503 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-4
+2020-05-16 17:41:30,503 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-5
+2020-05-16 17:41:30,503 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-5
+2020-05-16 17:41:30,504 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-5
+2020-05-16 17:41:30,504 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-21
+2020-05-16 17:41:30,504 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-21
+2020-05-16 17:41:30,505 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-21
+2020-05-16 17:41:30,505 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-18
+2020-05-16 17:41:30,506 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-18
+2020-05-16 17:41:30,506 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-18
+2020-05-16 17:41:30,506 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-7
+2020-05-16 17:41:30,507 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-7
+2020-05-16 17:41:30,507 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-7
+2020-05-16 17:41:30,507 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-24
+2020-05-16 17:41:30,508 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-24
+2020-05-16 17:41:30,508 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-24
+2020-05-16 17:41:30,509 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-25
+2020-05-16 17:41:30,509 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-25
+2020-05-16 17:41:30,509 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-25
+2020-05-16 17:41:30,510 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-11
+2020-05-16 17:41:30,510 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-11
+2020-05-16 17:41:30,510 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-11
+2020-05-16 17:41:30,511 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-26
+2020-05-16 17:41:30,511 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-26
+2020-05-16 17:41:30,512 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-26
+2020-05-16 17:41:30,512 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ´¬²àÏËÀ­¸Ë-13
+2020-05-16 17:41:30,512 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-13
+2020-05-16 17:41:30,513 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ´¬²àÏËÀ­¸Ë-13
+2020-05-16 17:41:30,513 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-33
+2020-05-16 17:41:30,513 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-33
+2020-05-16 17:41:30,514 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-33
+2020-05-16 17:41:30,514 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ´¬²àÏËÀ­¸Ë-9
+2020-05-16 17:41:30,514 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-9
+2020-05-16 17:41:30,515 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ´¬²àÏËÀ­¸Ë-9
+2020-05-16 17:41:30,515 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ´¬²àÏËÀ­¸Ë-12
+2020-05-16 17:41:30,515 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-12
+2020-05-16 17:41:30,516 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ´¬²àÏËÀ­¸Ë-12
+2020-05-16 17:41:30,516 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ´¬²àÏËÀ­¸Ë-6
+2020-05-16 17:41:30,517 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-6
+2020-05-16 17:41:30,517 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ´¬²àÏËÀ­¸Ë-6
+2020-05-16 17:41:30,517 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ´¬²àÏËÀ­¸Ë-14
+2020-05-16 17:41:30,518 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-14
+2020-05-16 17:41:30,518 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ´¬²àÏËÀ­¸Ë-14
+2020-05-16 17:41:30,518 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ´¬²àÏËÀ­¸Ë-7
+2020-05-16 17:41:30,519 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-7
+2020-05-16 17:41:30,519 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ´¬²àÏËÀ­¸Ë-7
+2020-05-16 17:41:30,519 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-32
+2020-05-16 17:41:30,520 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-32
+2020-05-16 17:41:30,520 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-32
+2020-05-16 17:41:30,521 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ´¬²àÏËÀ­¸Ë-10
+2020-05-16 17:41:30,521 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-10
+2020-05-16 17:41:30,521 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ´¬²àÏËÀ­¸Ë-10
+2020-05-16 17:41:30,522 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ´¬²àÏËÀ­¸Ë-5
+2020-05-16 17:41:30,522 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-5
+2020-05-16 17:41:30,523 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ´¬²àÏËÀ­¸Ë-5
+2020-05-16 17:41:30,523 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-34
+2020-05-16 17:41:30,524 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-34
+2020-05-16 17:41:30,524 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-34
+2020-05-16 17:41:30,525 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ´¬²àÏËÀ­¸Ë-15
+2020-05-16 17:41:30,525 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-15
+2020-05-16 17:41:30,525 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ´¬²àÏËÀ­¸Ë-15
+2020-05-16 17:41:30,526 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ´¬²àÏËÀ­¸Ë-16
+2020-05-16 17:41:30,526 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-16
+2020-05-16 17:41:30,526 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ´¬²àÏËÀ­¸Ë-16
+2020-05-16 17:41:30,527 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ´¬²àÏËÀ­¸Ë-17
+2020-05-16 17:41:30,527 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-17
+2020-05-16 17:41:30,528 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ´¬²àÏËÀ­¸Ë-17
+2020-05-16 17:41:30,528 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ´¬²àÏËÀ­¸Ë-18
+2020-05-16 17:41:30,528 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-18
+2020-05-16 17:41:30,529 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ´¬²àÏËÀ­¸Ë-18
+2020-05-16 17:41:30,529 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-31
+2020-05-16 17:41:30,529 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-31
+2020-05-16 17:41:30,530 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-31
+2020-05-16 17:41:30,530 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-30
+2020-05-16 17:41:30,530 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-30
+2020-05-16 17:41:30,535 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-30
+2020-05-16 17:41:30,536 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ´¬²àÏËÀ­¸Ë-8
+2020-05-16 17:41:30,537 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-8
+2020-05-16 17:41:30,537 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ´¬²àÏËÀ­¸Ë-8
+2020-05-16 17:41:30,538 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ´¬²àÏËÀ­¸Ë-11
+2020-05-16 17:41:30,538 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-11
+2020-05-16 17:41:30,538 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ´¬²àÏËÀ­¸Ë-11
+2020-05-16 17:41:30,539 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ´¬²àÏËÀ­¸Ë-4
+2020-05-16 17:41:30,539 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-4
+2020-05-16 17:41:30,539 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ´¬²àÏËÀ­¸Ë-4
+2020-05-16 17:41:30,540 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-29
+2020-05-16 17:41:30,540 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-29
+2020-05-16 17:41:30,541 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-29
+2020-05-16 17:41:30,542 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ´¬²àÏËÀ­¸Ë-3
+2020-05-16 17:41:30,543 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-3
+2020-05-16 17:41:30,544 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ´¬²àÏËÀ­¸Ë-3
+2020-05-16 17:41:30,544 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ºó½¨ÖþÎï-1
+2020-05-16 17:41:30,544 INFO  ExportHelperExtension.cs: 1142 - Found 20 in ºó½¨ÖþÎï-1
+2020-05-16 17:41:30,545 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ºó½¨ÖþÎï-1
+2020-05-16 17:41:30,545 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ´¬²ÕÃÅ×é¼þ-4
+2020-05-16 17:41:30,546 INFO  ExportHelperExtension.cs: 1142 - Found 28 in ´¬²ÕÃÅ×é¼þ-4
+2020-05-16 17:41:30,546 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ´¬²ÕÃÅ×é¼þ-4
+2020-05-16 17:41:30,546 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Ç° ÂÝÐý½°×é¼þ-1
+2020-05-16 17:41:30,547 INFO  ExportHelperExtension.cs: 1142 - Found 35 in Ç° ÂÝÐý½°×é¼þ-1
+2020-05-16 17:41:30,547 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Ç° ÂÝÐý½°×é¼þ-1
+2020-05-16 17:41:30,547 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Áã¼þ1-1
+2020-05-16 17:41:30,548 INFO  ExportHelperExtension.cs: 1142 - Found 23 in Áã¼þ1-1
+2020-05-16 17:41:30,548 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Áã¼þ1-1
+2020-05-16 17:41:30,549 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Áã¼þ1-2
+2020-05-16 17:41:30,549 INFO  ExportHelperExtension.cs: 1142 - Found 23 in Áã¼þ1-2
+2020-05-16 17:41:30,549 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Áã¼þ1-2
+2020-05-16 17:41:30,550 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ÂÝÐý½°×é¼þ-1
+2020-05-16 17:41:30,550 INFO  ExportHelperExtension.cs: 1142 - Found 42 in ÂÝÐý½°×é¼þ-1
+2020-05-16 17:41:30,550 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ÂÝÐý½°×é¼þ-1
+2020-05-16 17:41:30,551 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ×Ü×°1.SLDASM
+2020-05-16 17:41:30,551 INFO  ExportHelperExtension.cs: 1142 - Found 149 in ×Ü×°1.SLDASM
+2020-05-16 17:41:30,552 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ×Ü×°1.SLDASM
+2020-05-16 17:41:30,552 INFO  ExportHelperExtension.cs: 1155 - Proceeding through assembly components
+2020-05-16 17:41:30,553 INFO  ExportHelperExtension.cs: 1167 - 71 components to check
+2020-05-16 17:41:30,553 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ÖÐ¼äºó±ß»¤°å-1
+2020-05-16 17:41:30,554 INFO  ExportHelperExtension.cs: 1142 - Found 221 in ÖÐ¼äºó±ß»¤°å-1
+2020-05-16 17:41:30,555 INFO  ExportHelperExtension.cs: 1152 - Found 1 features of type [RefAxis] in ÖÐ¼äºó±ß»¤°å-1
+2020-05-16 17:41:30,556 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Ç°¹Ì¶¨¸Ë-1
+2020-05-16 17:41:30,556 INFO  ExportHelperExtension.cs: 1142 - Found 25 in Ç°¹Ì¶¨¸Ë-1
+2020-05-16 17:41:30,556 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Ç°¹Ì¶¨¸Ë-1
+2020-05-16 17:41:30,557 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Ë¨¸Ë-4
+2020-05-16 17:41:30,557 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Ë¨¸Ë-4
+2020-05-16 17:41:30,558 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Ë¨¸Ë-4
+2020-05-16 17:41:30,558 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-2
+2020-05-16 17:41:30,558 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-2
+2020-05-16 17:41:30,559 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-2
+2020-05-16 17:41:30,559 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-1
+2020-05-16 17:41:30,559 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-1
+2020-05-16 17:41:30,560 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-1
+2020-05-16 17:41:30,560 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-35
+2020-05-16 17:41:30,560 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-35
+2020-05-16 17:41:30,561 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-35
+2020-05-16 17:41:30,561 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ¾µÏò·À»¬¿é-1
+2020-05-16 17:41:30,561 INFO  ExportHelperExtension.cs: 1142 - Found 29 in ¾µÏò·À»¬¿é-1
+2020-05-16 17:41:30,562 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ¾µÏò·À»¬¿é-1
+2020-05-16 17:41:30,562 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ´¬µ×-1
+2020-05-16 17:41:30,563 INFO  ExportHelperExtension.cs: 1142 - Found 146 in ´¬µ×-1
+2020-05-16 17:41:30,564 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ´¬µ×-1
+2020-05-16 17:41:30,564 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ÖÐ¼ä»¤°å-1
+2020-05-16 17:41:30,565 INFO  ExportHelperExtension.cs: 1142 - Found 219 in ÖÐ¼ä»¤°å-1
+2020-05-16 17:41:30,566 INFO  ExportHelperExtension.cs: 1152 - Found 1 features of type [RefAxis] in ÖÐ¼ä»¤°å-1
+2020-05-16 17:41:30,566 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Ë¨¸Ë-1
+2020-05-16 17:41:30,567 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Ë¨¸Ë-1
+2020-05-16 17:41:30,567 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Ë¨¸Ë-1
+2020-05-16 17:41:30,568 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Ë¨¸Ë-2
+2020-05-16 17:41:30,568 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Ë¨¸Ë-2
+2020-05-16 17:41:30,568 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Ë¨¸Ë-2
+2020-05-16 17:41:30,569 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Ë¨¸Ë-3
+2020-05-16 17:41:30,569 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Ë¨¸Ë-3
+2020-05-16 17:41:30,569 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Ë¨¸Ë-3
+2020-05-16 17:41:30,570 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ´¬²àÏËÀ­¸Ë-1
+2020-05-16 17:41:30,570 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-1
+2020-05-16 17:41:30,570 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ´¬²àÏËÀ­¸Ë-1
+2020-05-16 17:41:30,571 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ºóÆ½Ì¨Â¥ÌÝ-3
+2020-05-16 17:41:30,571 INFO  ExportHelperExtension.cs: 1142 - Found 33 in ºóÆ½Ì¨Â¥ÌÝ-3
+2020-05-16 17:41:30,572 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ºóÆ½Ì¨Â¥ÌÝ-3
+2020-05-16 17:41:30,572 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ´¬²àÏËÀ­¸Ë-2
+2020-05-16 17:41:30,572 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-2
+2020-05-16 17:41:30,573 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ´¬²àÏËÀ­¸Ë-2
+2020-05-16 17:41:30,573 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ºóÆ½Ì¨Â¥ÌÝ-4
+2020-05-16 17:41:30,573 INFO  ExportHelperExtension.cs: 1142 - Found 33 in ºóÆ½Ì¨Â¥ÌÝ-4
+2020-05-16 17:41:30,574 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ºóÆ½Ì¨Â¥ÌÝ-4
+2020-05-16 17:41:30,574 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ´¬Íâ¿ò-1
+2020-05-16 17:41:30,575 INFO  ExportHelperExtension.cs: 1142 - Found 109 in ´¬Íâ¿ò-1
+2020-05-16 17:41:30,576 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ´¬Íâ¿ò-1
+2020-05-16 17:41:30,576 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-27
+2020-05-16 17:41:30,576 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-27
+2020-05-16 17:41:30,577 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-27
+2020-05-16 17:41:30,577 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-28
+2020-05-16 17:41:30,577 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-28
+2020-05-16 17:41:30,578 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-28
+2020-05-16 17:41:30,578 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-12
+2020-05-16 17:41:30,578 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-12
+2020-05-16 17:41:30,579 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-12
+2020-05-16 17:41:30,579 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-13
+2020-05-16 17:41:30,580 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-13
+2020-05-16 17:41:30,580 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-13
+2020-05-16 17:41:30,580 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-8
+2020-05-16 17:41:30,581 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-8
+2020-05-16 17:41:30,581 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-8
+2020-05-16 17:41:30,581 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-14
+2020-05-16 17:41:30,582 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-14
+2020-05-16 17:41:30,582 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-14
+2020-05-16 17:41:30,582 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-15
+2020-05-16 17:41:30,583 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-15
+2020-05-16 17:41:30,583 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-15
+2020-05-16 17:41:30,584 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-22
+2020-05-16 17:41:30,584 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-22
+2020-05-16 17:41:30,584 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-22
+2020-05-16 17:41:30,585 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-6
+2020-05-16 17:41:30,585 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-6
+2020-05-16 17:41:30,586 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-6
+2020-05-16 17:41:30,586 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-9
+2020-05-16 17:41:30,586 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-9
+2020-05-16 17:41:30,587 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-9
+2020-05-16 17:41:30,587 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-16
+2020-05-16 17:41:30,587 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-16
+2020-05-16 17:41:30,588 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-16
+2020-05-16 17:41:30,588 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-23
+2020-05-16 17:41:30,589 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-23
+2020-05-16 17:41:30,589 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-23
+2020-05-16 17:41:30,589 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-3
+2020-05-16 17:41:30,590 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-3
+2020-05-16 17:41:30,590 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-3
+2020-05-16 17:41:30,590 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-17
+2020-05-16 17:41:30,590 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-17
+2020-05-16 17:41:30,591 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-17
+2020-05-16 17:41:30,591 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-19
+2020-05-16 17:41:30,591 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-19
+2020-05-16 17:41:30,593 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-19
+2020-05-16 17:41:30,593 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-10
+2020-05-16 17:41:30,593 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-10
+2020-05-16 17:41:30,594 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-10
+2020-05-16 17:41:30,594 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-20
+2020-05-16 17:41:30,594 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-20
+2020-05-16 17:41:30,594 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-20
+2020-05-16 17:41:30,594 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-4
+2020-05-16 17:41:30,595 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-4
+2020-05-16 17:41:30,595 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-4
+2020-05-16 17:41:30,595 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-5
+2020-05-16 17:41:30,596 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-5
+2020-05-16 17:41:30,596 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-5
+2020-05-16 17:41:30,597 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-21
+2020-05-16 17:41:30,597 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-21
+2020-05-16 17:41:30,597 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-21
+2020-05-16 17:41:30,598 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-18
+2020-05-16 17:41:30,598 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-18
+2020-05-16 17:41:30,598 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-18
+2020-05-16 17:41:30,599 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-7
+2020-05-16 17:41:30,599 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-7
+2020-05-16 17:41:30,607 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-7
+2020-05-16 17:41:30,607 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-24
+2020-05-16 17:41:30,608 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-24
+2020-05-16 17:41:30,608 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-24
+2020-05-16 17:41:30,608 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-25
+2020-05-16 17:41:30,609 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-25
+2020-05-16 17:41:30,609 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-25
+2020-05-16 17:41:30,610 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-11
+2020-05-16 17:41:30,610 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-11
+2020-05-16 17:41:30,610 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-11
+2020-05-16 17:41:30,611 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-26
+2020-05-16 17:41:30,611 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-26
+2020-05-16 17:41:30,611 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-26
+2020-05-16 17:41:30,612 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ´¬²àÏËÀ­¸Ë-13
+2020-05-16 17:41:30,615 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-13
+2020-05-16 17:41:30,615 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ´¬²àÏËÀ­¸Ë-13
+2020-05-16 17:41:30,615 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-33
+2020-05-16 17:41:30,616 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-33
+2020-05-16 17:41:30,616 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-33
+2020-05-16 17:41:30,617 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ´¬²àÏËÀ­¸Ë-9
+2020-05-16 17:41:30,617 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-9
+2020-05-16 17:41:30,617 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ´¬²àÏËÀ­¸Ë-9
+2020-05-16 17:41:30,618 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ´¬²àÏËÀ­¸Ë-12
+2020-05-16 17:41:30,618 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-12
+2020-05-16 17:41:30,619 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ´¬²àÏËÀ­¸Ë-12
+2020-05-16 17:41:30,619 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ´¬²àÏËÀ­¸Ë-6
+2020-05-16 17:41:30,619 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-6
+2020-05-16 17:41:30,620 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ´¬²àÏËÀ­¸Ë-6
+2020-05-16 17:41:30,620 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ´¬²àÏËÀ­¸Ë-14
+2020-05-16 17:41:30,620 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-14
+2020-05-16 17:41:30,621 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ´¬²àÏËÀ­¸Ë-14
+2020-05-16 17:41:30,621 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ´¬²àÏËÀ­¸Ë-7
+2020-05-16 17:41:30,621 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-7
+2020-05-16 17:41:30,622 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ´¬²àÏËÀ­¸Ë-7
+2020-05-16 17:41:30,622 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-32
+2020-05-16 17:41:30,623 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-32
+2020-05-16 17:41:30,623 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-32
+2020-05-16 17:41:30,623 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ´¬²àÏËÀ­¸Ë-10
+2020-05-16 17:41:30,624 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-10
+2020-05-16 17:41:30,624 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ´¬²àÏËÀ­¸Ë-10
+2020-05-16 17:41:30,625 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ´¬²àÏËÀ­¸Ë-5
+2020-05-16 17:41:30,625 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-5
+2020-05-16 17:41:30,625 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ´¬²àÏËÀ­¸Ë-5
+2020-05-16 17:41:30,626 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-34
+2020-05-16 17:41:30,626 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-34
+2020-05-16 17:41:30,626 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-34
+2020-05-16 17:41:30,627 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ´¬²àÏËÀ­¸Ë-15
+2020-05-16 17:41:30,627 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-15
+2020-05-16 17:41:30,628 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ´¬²àÏËÀ­¸Ë-15
+2020-05-16 17:41:30,628 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ´¬²àÏËÀ­¸Ë-16
+2020-05-16 17:41:30,628 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-16
+2020-05-16 17:41:30,629 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ´¬²àÏËÀ­¸Ë-16
+2020-05-16 17:41:30,629 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ´¬²àÏËÀ­¸Ë-17
+2020-05-16 17:41:30,629 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-17
+2020-05-16 17:41:30,630 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ´¬²àÏËÀ­¸Ë-17
+2020-05-16 17:41:30,630 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ´¬²àÏËÀ­¸Ë-18
+2020-05-16 17:41:30,631 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-18
+2020-05-16 17:41:30,631 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ´¬²àÏËÀ­¸Ë-18
+2020-05-16 17:41:30,631 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-31
+2020-05-16 17:41:30,632 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-31
+2020-05-16 17:41:30,632 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-31
+2020-05-16 17:41:30,632 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-30
+2020-05-16 17:41:30,633 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-30
+2020-05-16 17:41:30,633 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-30
+2020-05-16 17:41:30,633 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ´¬²àÏËÀ­¸Ë-8
+2020-05-16 17:41:30,634 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-8
+2020-05-16 17:41:30,634 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ´¬²àÏËÀ­¸Ë-8
+2020-05-16 17:41:30,635 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ´¬²àÏËÀ­¸Ë-11
+2020-05-16 17:41:30,635 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-11
+2020-05-16 17:41:30,636 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ´¬²àÏËÀ­¸Ë-11
+2020-05-16 17:41:30,636 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ´¬²àÏËÀ­¸Ë-4
+2020-05-16 17:41:30,636 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-4
+2020-05-16 17:41:30,637 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ´¬²àÏËÀ­¸Ë-4
+2020-05-16 17:41:30,637 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-29
+2020-05-16 17:41:30,637 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-29
+2020-05-16 17:41:30,638 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-29
+2020-05-16 17:41:30,638 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ´¬²àÏËÀ­¸Ë-3
+2020-05-16 17:41:30,638 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-3
+2020-05-16 17:41:30,639 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ´¬²àÏËÀ­¸Ë-3
+2020-05-16 17:41:30,639 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ºó½¨ÖþÎï-1
+2020-05-16 17:41:30,640 INFO  ExportHelperExtension.cs: 1142 - Found 20 in ºó½¨ÖþÎï-1
+2020-05-16 17:41:30,640 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ºó½¨ÖþÎï-1
+2020-05-16 17:41:30,640 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ´¬²ÕÃÅ×é¼þ-4
+2020-05-16 17:41:30,641 INFO  ExportHelperExtension.cs: 1142 - Found 28 in ´¬²ÕÃÅ×é¼þ-4
+2020-05-16 17:41:30,641 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ´¬²ÕÃÅ×é¼þ-4
+2020-05-16 17:41:30,642 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Ç° ÂÝÐý½°×é¼þ-1
+2020-05-16 17:41:30,642 INFO  ExportHelperExtension.cs: 1142 - Found 35 in Ç° ÂÝÐý½°×é¼þ-1
+2020-05-16 17:41:30,642 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Ç° ÂÝÐý½°×é¼þ-1
+2020-05-16 17:41:30,643 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Áã¼þ1-1
+2020-05-16 17:41:30,643 INFO  ExportHelperExtension.cs: 1142 - Found 23 in Áã¼þ1-1
+2020-05-16 17:41:30,644 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Áã¼þ1-1
+2020-05-16 17:41:30,644 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Áã¼þ1-2
+2020-05-16 17:41:30,644 INFO  ExportHelperExtension.cs: 1142 - Found 23 in Áã¼þ1-2
+2020-05-16 17:41:30,645 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Áã¼þ1-2
+2020-05-16 17:41:30,645 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ÂÝÐý½°×é¼þ-1
+2020-05-16 17:41:30,645 INFO  ExportHelperExtension.cs: 1142 - Found 42 in ÂÝÐý½°×é¼þ-1
+2020-05-16 17:41:30,646 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ÂÝÐý½°×é¼þ-1
+2020-05-16 17:41:30,728 INFO  SwAddin.cs: 316 - Loading config tree
+2020-05-16 17:41:30,738 INFO  Serialization.cs: 275 - URDF Configuration found
+<Link z:Id="i1" xmlns="http://schemas.datacontract.org/2004/07/SW2URDF" xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns:z="http://schemas.microsoft.com/2003/10/Serialization/"><Attributes><Attribute z:Id="i2"><AttributeType>name</AttributeType><IsRequired>true</IsRequired><Value i:type="a:string" xmlns:a="http://www.w3.org/2001/XMLSchema">base_link</Value></Attribute></Attributes><ChildElements><URDFElement z:Id="i3" i:type="Inertial"><Attributes/><ChildElements><URDFElement z:Id="i4" i:type="Origin"><Attributes><Attribute z:Id="i5"><AttributeType>xyz</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>0</a:double><a:double>0</a:double><a:double>0</a:double></Value></Attribute><Attribute z:Id="i6"><AttributeType>rpy</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>0</a:double><a:double>0</a:double><a:double>0</a:double></Value></Attribute></Attributes><ChildElements/><ElementName>origin</ElementName><required>false</required><RPYAttribute z:Ref="i6"/><XYZAttribute z:Ref="i5"/><isCustomized>false</isCustomized></URDFElement><URDFElement z:Id="i7" i:type="Mass"><Attributes><Attribute z:Id="i8"><AttributeType>value</AttributeType><IsRequired>true</IsRequired><Value i:type="a:double" xmlns:a="http://www.w3.org/2001/XMLSchema">0</Value></Attribute></Attributes><ChildElements/><ElementName>mass</ElementName><required>false</required><ValueAttribute z:Ref="i8"/></URDFElement><URDFElement z:Id="i9" i:type="Inertia"><Attributes><Attribute z:Id="i10"><AttributeType>ixx</AttributeType><IsRequired>true</IsRequired><Value i:type="a:double" xmlns:a="http://www.w3.org/2001/XMLSchema">0</Value></Attribute><Attribute z:Id="i11"><AttributeType>ixy</AttributeType><IsRequired>true</IsRequired><Value i:type="a:double" xmlns:a="http://www.w3.org/2001/XMLSchema">0</Value></Attribute><Attribute z:Id="i12"><AttributeType>ixz</AttributeType><IsRequired>true</IsRequired><Value i:type="a:double" xmlns:a="http://www.w3.org/2001/XMLSchema">0</Value></Attribute><Attribute z:Id="i13"><AttributeType>iyy</AttributeType><IsRequired>true</IsRequired><Value i:type="a:double" xmlns:a="http://www.w3.org/2001/XMLSchema">0</Value></Attribute><Attribute z:Id="i14"><AttributeType>iyz</AttributeType><IsRequired>true</IsRequired><Value i:type="a:double" xmlns:a="http://www.w3.org/2001/XMLSchema">0</Value></Attribute><Attribute z:Id="i15"><AttributeType>izz</AttributeType><IsRequired>true</IsRequired><Value i:type="a:double" xmlns:a="http://www.w3.org/2001/XMLSchema">0</Value></Attribute></Attributes><ChildElements/><ElementName>inertia</ElementName><required>false</required><IxxAttribute z:Ref="i10"/><IxyAttribute z:Ref="i11"/><IxzAttribute z:Ref="i12"/><IyyAttribute z:Ref="i13"/><IyzAttribute z:Ref="i14"/><IzzAttribute z:Ref="i15"/></URDFElement></ChildElements><ElementName>inertial</ElementName><required>false</required><Inertia z:Ref="i9"/><Mass z:Ref="i7"/><Origin z:Ref="i4"/></URDFElement><URDFElement z:Id="i16" i:type="Visual"><Attributes/><ChildElements><URDFElement z:Id="i17" i:type="Origin"><Attributes><Attribute z:Id="i18"><AttributeType>xyz</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>0</a:double><a:double>0</a:double><a:double>0</a:double></Value></Attribute><Attribute z:Id="i19"><AttributeType>rpy</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>0</a:double><a:double>0</a:double><a:double>0</a:double></Value></Attribute></Attributes><ChildElements/><ElementName>origin</ElementName><required>false</required><RPYAttribute z:Ref="i19"/><XYZAttribute z:Ref="i18"/><isCustomized>false</isCustomized></URDFElement><URDFElement z:Id="i20" i:type="Geometry"><Attributes/><ChildElements><URDFElement z:Id="i21" i:type="Mesh"><Attributes><Attribute z:Id="i22"><AttributeType>filename</AttributeType><IsRequired>true</IsRequired><Value i:nil="true"/></Attribute></Attributes><ChildElements/><ElementName>mesh</ElementName><required>false</required><FilenameAttribute z:Ref="i22"/></URDFElement></ChildElements><ElementName>geometry</ElementName><required>true</required><Mesh z:Ref="i21"/></URDFElement><URDFElement z:Id="i23" i:type="Material"><Attributes><Attribute z:Id="i24"><AttributeType>name</AttributeType><IsRequired>true</IsRequired><Value i:type="a:string" xmlns:a="http://www.w3.org/2001/XMLSchema"/></Attribute></Attributes><ChildElements><URDFElement z:Id="i25" i:type="Color"><Attributes><Attribute z:Id="i26"><AttributeType>rgba</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>1</a:double><a:double>1</a:double><a:double>1</a:double><a:double>1</a:double></Value></Attribute></Attributes><ChildElements/><ElementName>color</ElementName><required>false</required><RGBAAttribute z:Ref="i26"/></URDFElement><URDFElement z:Id="i27" i:type="Texture"><Attributes><Attribute z:Id="i28"><AttributeType>filename</AttributeType><IsRequired>true</IsRequired><Value i:nil="true"/></Attribute></Attributes><ChildElements/><ElementName>texture</ElementName><required>false</required><FilenameAttribute z:Ref="i28"/><wFilename/></URDFElement></ChildElements><ElementName>material</ElementName><required>false</required><Color z:Ref="i25"/><NameAttribute z:Ref="i24"/><Texture z:Ref="i27"/></URDFElement></ChildElements><ElementName>visual</ElementName><required>false</required><Geometry z:Ref="i20"/><Material z:Ref="i23"/><Origin z:Ref="i17"/></URDFElement><URDFElement z:Id="i29" i:type="Collision"><Attributes/><ChildElements><URDFElement z:Id="i30" i:type="Origin"><Attributes><Attribute z:Id="i31"><AttributeType>xyz</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>0</a:double><a:double>0</a:double><a:double>0</a:double></Value></Attribute><Attribute z:Id="i32"><AttributeType>rpy</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>0</a:double><a:double>0</a:double><a:double>0</a:double></Value></Attribute></Attributes><ChildElements/><ElementName>origin</ElementName><required>false</required><RPYAttribute z:Ref="i32"/><XYZAttribute z:Ref="i31"/><isCustomized>false</isCustomized></URDFElement><URDFElement z:Id="i33" i:type="Geometry"><Attributes/><ChildElements><URDFElement z:Id="i34" i:type="Mesh"><Attributes><Attribute z:Id="i35"><AttributeType>filename</AttributeType><IsRequired>true</IsRequired><Value i:nil="true"/></Attribute></Attributes><ChildElements/><ElementName>mesh</ElementName><required>false</required><FilenameAttribute z:Ref="i35"/></URDFElement></ChildElements><ElementName>geometry</ElementName><required>true</required><Mesh z:Ref="i34"/></URDFElement></ChildElements><ElementName>collision</ElementName><required>false</required><Geometry z:Ref="i33"/><Origin z:Ref="i30"/></URDFElement><URDFElement z:Id="i36" i:type="Joint"><Attributes><Attribute z:Id="i37"><AttributeType>name</AttributeType><IsRequired>true</IsRequired><Value i:type="a:string" xmlns:a="http://www.w3.org/2001/XMLSchema"/></Attribute><Attribute z:Id="i38"><AttributeType>type</AttributeType><IsRequired>true</IsRequired><Value i:type="a:string" xmlns:a="http://www.w3.org/2001/XMLSchema"/></Attribute></Attributes><ChildElements><URDFElement z:Id="i39" i:type="Origin"><Attributes><Attribute z:Id="i40"><AttributeType>xyz</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>0</a:double><a:double>0</a:double><a:double>0</a:double></Value></Attribute><Attribute z:Id="i41"><AttributeType>rpy</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>0</a:double><a:double>0</a:double><a:double>0</a:double></Value></Attribute></Attributes><ChildElements/><ElementName>origin</ElementName><required>false</required><RPYAttribute z:Ref="i41"/><XYZAttribute z:Ref="i40"/><isCustomized>false</isCustomized></URDFElement><URDFElement z:Id="i42" i:type="ParentLink"><Attributes><Attribute z:Id="i43"><AttributeType>link</AttributeType><IsRequired>true</IsRequired><Value i:type="a:string" xmlns:a="http://www.w3.org/2001/XMLSchema"/></Attribute></Attributes><ChildElements/><ElementName>parent</ElementName><required>true</required><NameAttribute z:Ref="i43"/></URDFElement><URDFElement z:Id="i44" i:type="ChildLink"><Attributes><Attribute z:Id="i45"><AttributeType>link</AttributeType><IsRequired>true</IsRequired><Value i:type="a:string" xmlns:a="http://www.w3.org/2001/XMLSchema"/></Attribute></Attributes><ChildElements/><ElementName>child</ElementName><required>true</required><NameAttribute z:Ref="i45"/></URDFElement><URDFElement z:Id="i46" i:type="Axis"><Attributes><Attribute z:Id="i47"><AttributeType>xyz</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>0</a:double><a:double>0</a:double><a:double>0</a:double></Value></Attribute></Attributes><ChildElements/><ElementName>axis</ElementName><required>false</required><XYZAttribute z:Ref="i47"/></URDFElement><URDFElement z:Id="i48" i:type="Limit"><Attributes><Attribute z:Id="i49"><AttributeType>lower</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i50"><AttributeType>upper</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i51"><AttributeType>effort</AttributeType><IsRequired>true</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i52"><AttributeType>velocity</AttributeType><IsRequired>true</IsRequired><Value i:nil="true"/></Attribute></Attributes><ChildElements/><ElementName>limit</ElementName><required>false</required><EffortAttribute z:Ref="i51"/><LowerAttribute z:Ref="i49"/><UpperAttribute z:Ref="i50"/><VelocityAttribute z:Ref="i52"/></URDFElement><URDFElement z:Id="i53" i:type="Calibration"><Attributes><Attribute z:Id="i54"><AttributeType>rising</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i55"><AttributeType>falling</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute></Attributes><ChildElements/><ElementName>calibration</ElementName><required>false</required><FallingAttribute z:Ref="i55"/><RisingAttribute z:Ref="i54"/></URDFElement><URDFElement z:Id="i56" i:type="Dynamics"><Attributes><Attribute z:Id="i57"><AttributeType>damping</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i58"><AttributeType>friction</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute></Attributes><ChildElements/><ElementName>dynamics</ElementName><required>false</required><DampingAttribute z:Ref="i57"/><FrictionAttribute z:Ref="i58"/></URDFElement><URDFElement z:Id="i59" i:type="SafetyController"><Attributes><Attribute z:Id="i60"><AttributeType>soft_upper</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i61"><AttributeType>soft_lower</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i62"><AttributeType>k_position</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i63"><AttributeType>k_velocity</AttributeType><IsRequired>true</IsRequired><Value i:nil="true"/></Attribute></Attributes><ChildElements/><ElementName>safety_controller</ElementName><required>false</required><KPositionAttribute z:Ref="i62"/><KVelocityAttribute z:Ref="i63"/><SoftLowerAttribute z:Ref="i61"/><SoftUpperAttribute z:Ref="i60"/></URDFElement><URDFElement z:Id="i64" i:type="Mimic"><Attributes><Attribute z:Id="i65"><AttributeType>joint</AttributeType><IsRequired>true</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i66"><AttributeType>multiplier</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i67"><AttributeType>offset</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute></Attributes><ChildElements/><ElementName>mimic</ElementName><required>false</required><JointNameAttribute z:Ref="i65"/><MultiplierAttribute z:Ref="i66"/><OffsetAttribute z:Ref="i67"/></URDFElement></ChildElements><ElementName>joint</ElementName><required>false</required><Axis z:Ref="i46"/><AxisName/><Calibration z:Ref="i53"/><Child z:Ref="i44"/><CoordinateSystemName>Automatically Generate</CoordinateSystemName><Dynamics z:Ref="i56"/><Limit z:Ref="i48"/><Mimic z:Ref="i64"/><NameAttribute z:Ref="i37"/><Origin z:Ref="i39"/><Parent z:Ref="i42"/><Safety z:Ref="i59"/><TypeAttribute z:Ref="i38"/></URDFElement></ChildElements><ElementName>link</ElementName><required>true</required><Children/><Collision z:Ref="i29"/><Inertial z:Ref="i3"/><Joint z:Ref="i36"/><NameAttribute z:Ref="i2"/><Parent i:nil="true"/><STLQualityFine>false</STLQualityFine><SWComponentPIDs xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"/><SWMainComponentPID i:nil="true"/><Visual z:Ref="i16"/><isFixedFrame>false</isFixedFrame><isIncomplete>false</isIncomplete></Link>
+2020-05-16 17:41:30,841 INFO  LinkNode.cs: 35 - Building node base_link
+2020-05-16 17:41:30,843 INFO  Common.cs: 221 - Loading SolidWorks components for base_link from F:\master\ÏîÄ¿\1111\sw\×Ü×°1.SLDASM
+2020-05-16 17:41:30,844 INFO  Common.cs: 230 - Loaded 0 components for link base_link
+2020-05-16 17:41:30,853 INFO  SwAddin.cs: 321 - Showing property manager
+2020-05-16 17:42:08,069 INFO  ExportPropertyManager.cs: 456 - Configuration saved
+2020-05-16 17:42:08,090 INFO  Serialization.cs: 275 - URDF Configuration found
+<Link z:Id="i1" xmlns="http://schemas.datacontract.org/2004/07/SW2URDF" xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns:z="http://schemas.microsoft.com/2003/10/Serialization/"><Attributes><Attribute z:Id="i2"><AttributeType>name</AttributeType><IsRequired>true</IsRequired><Value i:type="a:string" xmlns:a="http://www.w3.org/2001/XMLSchema">base_link</Value></Attribute></Attributes><ChildElements><URDFElement z:Id="i3" i:type="Inertial"><Attributes/><ChildElements><URDFElement z:Id="i4" i:type="Origin"><Attributes><Attribute z:Id="i5"><AttributeType>xyz</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>0</a:double><a:double>0</a:double><a:double>0</a:double></Value></Attribute><Attribute z:Id="i6"><AttributeType>rpy</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>0</a:double><a:double>0</a:double><a:double>0</a:double></Value></Attribute></Attributes><ChildElements/><ElementName>origin</ElementName><required>false</required><RPYAttribute z:Ref="i6"/><XYZAttribute z:Ref="i5"/><isCustomized>false</isCustomized></URDFElement><URDFElement z:Id="i7" i:type="Mass"><Attributes><Attribute z:Id="i8"><AttributeType>value</AttributeType><IsRequired>true</IsRequired><Value i:type="a:double" xmlns:a="http://www.w3.org/2001/XMLSchema">0</Value></Attribute></Attributes><ChildElements/><ElementName>mass</ElementName><required>false</required><ValueAttribute z:Ref="i8"/></URDFElement><URDFElement z:Id="i9" i:type="Inertia"><Attributes><Attribute z:Id="i10"><AttributeType>ixx</AttributeType><IsRequired>true</IsRequired><Value i:type="a:double" xmlns:a="http://www.w3.org/2001/XMLSchema">0</Value></Attribute><Attribute z:Id="i11"><AttributeType>ixy</AttributeType><IsRequired>true</IsRequired><Value i:type="a:double" xmlns:a="http://www.w3.org/2001/XMLSchema">0</Value></Attribute><Attribute z:Id="i12"><AttributeType>ixz</AttributeType><IsRequired>true</IsRequired><Value i:type="a:double" xmlns:a="http://www.w3.org/2001/XMLSchema">0</Value></Attribute><Attribute z:Id="i13"><AttributeType>iyy</AttributeType><IsRequired>true</IsRequired><Value i:type="a:double" xmlns:a="http://www.w3.org/2001/XMLSchema">0</Value></Attribute><Attribute z:Id="i14"><AttributeType>iyz</AttributeType><IsRequired>true</IsRequired><Value i:type="a:double" xmlns:a="http://www.w3.org/2001/XMLSchema">0</Value></Attribute><Attribute z:Id="i15"><AttributeType>izz</AttributeType><IsRequired>true</IsRequired><Value i:type="a:double" xmlns:a="http://www.w3.org/2001/XMLSchema">0</Value></Attribute></Attributes><ChildElements/><ElementName>inertia</ElementName><required>false</required><IxxAttribute z:Ref="i10"/><IxyAttribute z:Ref="i11"/><IxzAttribute z:Ref="i12"/><IyyAttribute z:Ref="i13"/><IyzAttribute z:Ref="i14"/><IzzAttribute z:Ref="i15"/></URDFElement></ChildElements><ElementName>inertial</ElementName><required>false</required><Inertia z:Ref="i9"/><Mass z:Ref="i7"/><Origin z:Ref="i4"/></URDFElement><URDFElement z:Id="i16" i:type="Visual"><Attributes/><ChildElements><URDFElement z:Id="i17" i:type="Origin"><Attributes><Attribute z:Id="i18"><AttributeType>xyz</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>0</a:double><a:double>0</a:double><a:double>0</a:double></Value></Attribute><Attribute z:Id="i19"><AttributeType>rpy</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>0</a:double><a:double>0</a:double><a:double>0</a:double></Value></Attribute></Attributes><ChildElements/><ElementName>origin</ElementName><required>false</required><RPYAttribute z:Ref="i19"/><XYZAttribute z:Ref="i18"/><isCustomized>false</isCustomized></URDFElement><URDFElement z:Id="i20" i:type="Geometry"><Attributes/><ChildElements><URDFElement z:Id="i21" i:type="Mesh"><Attributes><Attribute z:Id="i22"><AttributeType>filename</AttributeType><IsRequired>true</IsRequired><Value i:nil="true"/></Attribute></Attributes><ChildElements/><ElementName>mesh</ElementName><required>false</required><FilenameAttribute z:Ref="i22"/></URDFElement></ChildElements><ElementName>geometry</ElementName><required>true</required><Mesh z:Ref="i21"/></URDFElement><URDFElement z:Id="i23" i:type="Material"><Attributes><Attribute z:Id="i24"><AttributeType>name</AttributeType><IsRequired>true</IsRequired><Value i:type="a:string" xmlns:a="http://www.w3.org/2001/XMLSchema"/></Attribute></Attributes><ChildElements><URDFElement z:Id="i25" i:type="Color"><Attributes><Attribute z:Id="i26"><AttributeType>rgba</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>1</a:double><a:double>1</a:double><a:double>1</a:double><a:double>1</a:double></Value></Attribute></Attributes><ChildElements/><ElementName>color</ElementName><required>false</required><RGBAAttribute z:Ref="i26"/></URDFElement><URDFElement z:Id="i27" i:type="Texture"><Attributes><Attribute z:Id="i28"><AttributeType>filename</AttributeType><IsRequired>true</IsRequired><Value i:nil="true"/></Attribute></Attributes><ChildElements/><ElementName>texture</ElementName><required>false</required><FilenameAttribute z:Ref="i28"/><wFilename/></URDFElement></ChildElements><ElementName>material</ElementName><required>false</required><Color z:Ref="i25"/><NameAttribute z:Ref="i24"/><Texture z:Ref="i27"/></URDFElement></ChildElements><ElementName>visual</ElementName><required>false</required><Geometry z:Ref="i20"/><Material z:Ref="i23"/><Origin z:Ref="i17"/></URDFElement><URDFElement z:Id="i29" i:type="Collision"><Attributes/><ChildElements><URDFElement z:Id="i30" i:type="Origin"><Attributes><Attribute z:Id="i31"><AttributeType>xyz</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>0</a:double><a:double>0</a:double><a:double>0</a:double></Value></Attribute><Attribute z:Id="i32"><AttributeType>rpy</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>0</a:double><a:double>0</a:double><a:double>0</a:double></Value></Attribute></Attributes><ChildElements/><ElementName>origin</ElementName><required>false</required><RPYAttribute z:Ref="i32"/><XYZAttribute z:Ref="i31"/><isCustomized>false</isCustomized></URDFElement><URDFElement z:Id="i33" i:type="Geometry"><Attributes/><ChildElements><URDFElement z:Id="i34" i:type="Mesh"><Attributes><Attribute z:Id="i35"><AttributeType>filename</AttributeType><IsRequired>true</IsRequired><Value i:nil="true"/></Attribute></Attributes><ChildElements/><ElementName>mesh</ElementName><required>false</required><FilenameAttribute z:Ref="i35"/></URDFElement></ChildElements><ElementName>geometry</ElementName><required>true</required><Mesh z:Ref="i34"/></URDFElement></ChildElements><ElementName>collision</ElementName><required>false</required><Geometry z:Ref="i33"/><Origin z:Ref="i30"/></URDFElement><URDFElement z:Id="i36" i:type="Joint"><Attributes><Attribute z:Id="i37"><AttributeType>name</AttributeType><IsRequired>true</IsRequired><Value i:type="a:string" xmlns:a="http://www.w3.org/2001/XMLSchema"/></Attribute><Attribute z:Id="i38"><AttributeType>type</AttributeType><IsRequired>true</IsRequired><Value i:type="a:string" xmlns:a="http://www.w3.org/2001/XMLSchema"/></Attribute></Attributes><ChildElements><URDFElement z:Id="i39" i:type="Origin"><Attributes><Attribute z:Id="i40"><AttributeType>xyz</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>0</a:double><a:double>0</a:double><a:double>0</a:double></Value></Attribute><Attribute z:Id="i41"><AttributeType>rpy</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>0</a:double><a:double>0</a:double><a:double>0</a:double></Value></Attribute></Attributes><ChildElements/><ElementName>origin</ElementName><required>false</required><RPYAttribute z:Ref="i41"/><XYZAttribute z:Ref="i40"/><isCustomized>false</isCustomized></URDFElement><URDFElement z:Id="i42" i:type="ParentLink"><Attributes><Attribute z:Id="i43"><AttributeType>link</AttributeType><IsRequired>true</IsRequired><Value i:type="a:string" xmlns:a="http://www.w3.org/2001/XMLSchema"/></Attribute></Attributes><ChildElements/><ElementName>parent</ElementName><required>true</required><NameAttribute z:Ref="i43"/></URDFElement><URDFElement z:Id="i44" i:type="ChildLink"><Attributes><Attribute z:Id="i45"><AttributeType>link</AttributeType><IsRequired>true</IsRequired><Value i:type="a:string" xmlns:a="http://www.w3.org/2001/XMLSchema"/></Attribute></Attributes><ChildElements/><ElementName>child</ElementName><required>true</required><NameAttribute z:Ref="i45"/></URDFElement><URDFElement z:Id="i46" i:type="Axis"><Attributes><Attribute z:Id="i47"><AttributeType>xyz</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>0</a:double><a:double>0</a:double><a:double>0</a:double></Value></Attribute></Attributes><ChildElements/><ElementName>axis</ElementName><required>false</required><XYZAttribute z:Ref="i47"/></URDFElement><URDFElement z:Id="i48" i:type="Limit"><Attributes><Attribute z:Id="i49"><AttributeType>lower</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i50"><AttributeType>upper</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i51"><AttributeType>effort</AttributeType><IsRequired>true</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i52"><AttributeType>velocity</AttributeType><IsRequired>true</IsRequired><Value i:nil="true"/></Attribute></Attributes><ChildElements/><ElementName>limit</ElementName><required>false</required><EffortAttribute z:Ref="i51"/><LowerAttribute z:Ref="i49"/><UpperAttribute z:Ref="i50"/><VelocityAttribute z:Ref="i52"/></URDFElement><URDFElement z:Id="i53" i:type="Calibration"><Attributes><Attribute z:Id="i54"><AttributeType>rising</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i55"><AttributeType>falling</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute></Attributes><ChildElements/><ElementName>calibration</ElementName><required>false</required><FallingAttribute z:Ref="i55"/><RisingAttribute z:Ref="i54"/></URDFElement><URDFElement z:Id="i56" i:type="Dynamics"><Attributes><Attribute z:Id="i57"><AttributeType>damping</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i58"><AttributeType>friction</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute></Attributes><ChildElements/><ElementName>dynamics</ElementName><required>false</required><DampingAttribute z:Ref="i57"/><FrictionAttribute z:Ref="i58"/></URDFElement><URDFElement z:Id="i59" i:type="SafetyController"><Attributes><Attribute z:Id="i60"><AttributeType>soft_upper</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i61"><AttributeType>soft_lower</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i62"><AttributeType>k_position</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i63"><AttributeType>k_velocity</AttributeType><IsRequired>true</IsRequired><Value i:nil="true"/></Attribute></Attributes><ChildElements/><ElementName>safety_controller</ElementName><required>false</required><KPositionAttribute z:Ref="i62"/><KVelocityAttribute z:Ref="i63"/><SoftLowerAttribute z:Ref="i61"/><SoftUpperAttribute z:Ref="i60"/></URDFElement><URDFElement z:Id="i64" i:type="Mimic"><Attributes><Attribute z:Id="i65"><AttributeType>joint</AttributeType><IsRequired>true</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i66"><AttributeType>multiplier</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i67"><AttributeType>offset</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute></Attributes><ChildElements/><ElementName>mimic</ElementName><required>false</required><JointNameAttribute z:Ref="i65"/><MultiplierAttribute z:Ref="i66"/><OffsetAttribute z:Ref="i67"/></URDFElement></ChildElements><ElementName>joint</ElementName><required>false</required><Axis z:Ref="i46"/><AxisName/><Calibration z:Ref="i53"/><Child z:Ref="i44"/><CoordinateSystemName>Automatically Generate</CoordinateSystemName><Dynamics z:Ref="i56"/><Limit z:Ref="i48"/><Mimic z:Ref="i64"/><NameAttribute z:Ref="i37"/><Origin z:Ref="i39"/><Parent z:Ref="i42"/><Safety z:Ref="i59"/><TypeAttribute z:Ref="i38"/></URDFElement></ChildElements><ElementName>link</ElementName><required>true</required><Children/><Collision z:Ref="i29"/><Inertial z:Ref="i3"/><Joint z:Ref="i36"/><NameAttribute z:Ref="i2"/><Parent i:nil="true"/><STLQualityFine>false</STLQualityFine><SWComponentPIDs xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"/><SWMainComponentPID i:nil="true"/><Visual z:Ref="i16"/><isFixedFrame>false</isFixedFrame><isIncomplete>false</isIncomplete></Link>
+2020-05-16 17:42:13,452 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ×Ü×°1.SLDASM
+2020-05-16 17:42:13,458 INFO  ExportHelperExtension.cs: 1142 - Found 151 in ×Ü×°1.SLDASM
+2020-05-16 17:42:13,459 INFO  ExportHelperExtension.cs: 1152 - Found 1 features of type [CoordSys] in ×Ü×°1.SLDASM
+2020-05-16 17:42:13,459 INFO  ExportHelperExtension.cs: 1155 - Proceeding through assembly components
+2020-05-16 17:42:13,460 INFO  ExportHelperExtension.cs: 1167 - 71 components to check
+2020-05-16 17:42:13,460 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ÖÐ¼äºó±ß»¤°å-1
+2020-05-16 17:42:13,843 INFO  ExportHelperExtension.cs: 1142 - Found 221 in ÖÐ¼äºó±ß»¤°å-1
+2020-05-16 17:42:13,845 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ÖÐ¼äºó±ß»¤°å-1
+2020-05-16 17:42:13,846 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Ç°¹Ì¶¨¸Ë-1
+2020-05-16 17:42:13,846 INFO  ExportHelperExtension.cs: 1142 - Found 25 in Ç°¹Ì¶¨¸Ë-1
+2020-05-16 17:42:13,847 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Ç°¹Ì¶¨¸Ë-1
+2020-05-16 17:42:13,847 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Ë¨¸Ë-4
+2020-05-16 17:42:13,848 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Ë¨¸Ë-4
+2020-05-16 17:42:13,848 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Ë¨¸Ë-4
+2020-05-16 17:42:13,848 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-2
+2020-05-16 17:42:13,849 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-2
+2020-05-16 17:42:13,849 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-2
+2020-05-16 17:42:13,850 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-1
+2020-05-16 17:42:13,850 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-1
+2020-05-16 17:42:13,851 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-1
+2020-05-16 17:42:13,851 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-35
+2020-05-16 17:42:13,851 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-35
+2020-05-16 17:42:13,852 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-35
+2020-05-16 17:42:13,852 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ¾µÏò·À»¬¿é-1
+2020-05-16 17:42:13,853 INFO  ExportHelperExtension.cs: 1142 - Found 29 in ¾µÏò·À»¬¿é-1
+2020-05-16 17:42:13,853 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ¾µÏò·À»¬¿é-1
+2020-05-16 17:42:13,853 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ´¬µ×-1
+2020-05-16 17:42:13,854 INFO  ExportHelperExtension.cs: 1142 - Found 146 in ´¬µ×-1
+2020-05-16 17:42:13,855 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ´¬µ×-1
+2020-05-16 17:42:13,855 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ÖÐ¼ä»¤°å-1
+2020-05-16 17:42:13,856 INFO  ExportHelperExtension.cs: 1142 - Found 219 in ÖÐ¼ä»¤°å-1
+2020-05-16 17:42:13,858 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ÖÐ¼ä»¤°å-1
+2020-05-16 17:42:13,858 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Ë¨¸Ë-1
+2020-05-16 17:42:13,858 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Ë¨¸Ë-1
+2020-05-16 17:42:13,859 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Ë¨¸Ë-1
+2020-05-16 17:42:13,859 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Ë¨¸Ë-2
+2020-05-16 17:42:13,859 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Ë¨¸Ë-2
+2020-05-16 17:42:13,860 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Ë¨¸Ë-2
+2020-05-16 17:42:13,860 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Ë¨¸Ë-3
+2020-05-16 17:42:13,861 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Ë¨¸Ë-3
+2020-05-16 17:42:13,862 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Ë¨¸Ë-3
+2020-05-16 17:42:13,862 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ´¬²àÏËÀ­¸Ë-1
+2020-05-16 17:42:13,863 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-1
+2020-05-16 17:42:13,864 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ´¬²àÏËÀ­¸Ë-1
+2020-05-16 17:42:13,865 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ºóÆ½Ì¨Â¥ÌÝ-3
+2020-05-16 17:42:13,866 INFO  ExportHelperExtension.cs: 1142 - Found 33 in ºóÆ½Ì¨Â¥ÌÝ-3
+2020-05-16 17:42:13,867 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ºóÆ½Ì¨Â¥ÌÝ-3
+2020-05-16 17:42:13,868 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ´¬²àÏËÀ­¸Ë-2
+2020-05-16 17:42:13,868 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-2
+2020-05-16 17:42:13,869 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ´¬²àÏËÀ­¸Ë-2
+2020-05-16 17:42:13,870 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ºóÆ½Ì¨Â¥ÌÝ-4
+2020-05-16 17:42:13,871 INFO  ExportHelperExtension.cs: 1142 - Found 33 in ºóÆ½Ì¨Â¥ÌÝ-4
+2020-05-16 17:42:13,872 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ºóÆ½Ì¨Â¥ÌÝ-4
+2020-05-16 17:42:13,872 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ´¬Íâ¿ò-1
+2020-05-16 17:42:13,873 INFO  ExportHelperExtension.cs: 1142 - Found 109 in ´¬Íâ¿ò-1
+2020-05-16 17:42:13,875 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ´¬Íâ¿ò-1
+2020-05-16 17:42:13,876 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-27
+2020-05-16 17:42:13,876 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-27
+2020-05-16 17:42:13,877 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-27
+2020-05-16 17:42:13,878 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-28
+2020-05-16 17:42:13,879 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-28
+2020-05-16 17:42:13,879 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-28
+2020-05-16 17:42:13,880 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-12
+2020-05-16 17:42:13,881 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-12
+2020-05-16 17:42:13,882 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-12
+2020-05-16 17:42:13,882 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-13
+2020-05-16 17:42:13,883 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-13
+2020-05-16 17:42:13,884 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-13
+2020-05-16 17:42:13,885 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-8
+2020-05-16 17:42:13,885 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-8
+2020-05-16 17:42:13,886 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-8
+2020-05-16 17:42:13,887 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-14
+2020-05-16 17:42:13,887 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-14
+2020-05-16 17:42:13,888 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-14
+2020-05-16 17:42:13,889 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-15
+2020-05-16 17:42:13,889 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-15
+2020-05-16 17:42:13,890 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-15
+2020-05-16 17:42:13,891 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-22
+2020-05-16 17:42:13,892 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-22
+2020-05-16 17:42:13,893 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-22
+2020-05-16 17:42:13,893 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-6
+2020-05-16 17:42:13,893 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-6
+2020-05-16 17:42:13,894 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-6
+2020-05-16 17:42:13,894 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-9
+2020-05-16 17:42:13,894 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-9
+2020-05-16 17:42:13,895 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-9
+2020-05-16 17:42:13,895 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-16
+2020-05-16 17:42:13,895 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-16
+2020-05-16 17:42:13,896 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-16
+2020-05-16 17:42:13,896 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-23
+2020-05-16 17:42:13,897 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-23
+2020-05-16 17:42:13,897 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-23
+2020-05-16 17:42:13,897 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-3
+2020-05-16 17:42:13,898 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-3
+2020-05-16 17:42:13,898 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-3
+2020-05-16 17:42:13,899 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-17
+2020-05-16 17:42:13,899 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-17
+2020-05-16 17:42:13,900 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-17
+2020-05-16 17:42:13,900 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-19
+2020-05-16 17:42:13,900 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-19
+2020-05-16 17:42:13,901 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-19
+2020-05-16 17:42:13,902 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-10
+2020-05-16 17:42:13,902 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-10
+2020-05-16 17:42:13,903 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-10
+2020-05-16 17:42:13,904 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-20
+2020-05-16 17:42:13,905 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-20
+2020-05-16 17:42:13,906 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-20
+2020-05-16 17:42:13,906 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-4
+2020-05-16 17:42:13,907 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-4
+2020-05-16 17:42:13,908 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-4
+2020-05-16 17:42:13,908 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-5
+2020-05-16 17:42:13,909 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-5
+2020-05-16 17:42:13,910 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-5
+2020-05-16 17:42:13,911 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-21
+2020-05-16 17:42:13,911 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-21
+2020-05-16 17:42:13,912 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-21
+2020-05-16 17:42:13,912 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-18
+2020-05-16 17:42:13,923 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-18
+2020-05-16 17:42:13,923 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-18
+2020-05-16 17:42:13,924 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-7
+2020-05-16 17:42:13,924 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-7
+2020-05-16 17:42:13,925 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-7
+2020-05-16 17:42:13,925 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-24
+2020-05-16 17:42:13,925 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-24
+2020-05-16 17:42:13,926 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-24
+2020-05-16 17:42:13,926 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-25
+2020-05-16 17:42:13,927 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-25
+2020-05-16 17:42:13,927 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-25
+2020-05-16 17:42:13,927 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-11
+2020-05-16 17:42:13,928 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-11
+2020-05-16 17:42:13,928 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-11
+2020-05-16 17:42:13,929 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-26
+2020-05-16 17:42:13,929 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-26
+2020-05-16 17:42:13,929 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-26
+2020-05-16 17:42:13,930 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ´¬²àÏËÀ­¸Ë-13
+2020-05-16 17:42:13,943 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-13
+2020-05-16 17:42:13,944 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ´¬²àÏËÀ­¸Ë-13
+2020-05-16 17:42:13,944 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-33
+2020-05-16 17:42:13,944 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-33
+2020-05-16 17:42:13,945 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-33
+2020-05-16 17:42:13,945 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ´¬²àÏËÀ­¸Ë-9
+2020-05-16 17:42:13,946 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-9
+2020-05-16 17:42:13,946 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ´¬²àÏËÀ­¸Ë-9
+2020-05-16 17:42:13,947 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ´¬²àÏËÀ­¸Ë-12
+2020-05-16 17:42:13,947 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-12
+2020-05-16 17:42:13,948 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ´¬²àÏËÀ­¸Ë-12
+2020-05-16 17:42:13,948 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ´¬²àÏËÀ­¸Ë-6
+2020-05-16 17:42:13,948 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-6
+2020-05-16 17:42:13,949 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ´¬²àÏËÀ­¸Ë-6
+2020-05-16 17:42:13,949 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ´¬²àÏËÀ­¸Ë-14
+2020-05-16 17:42:13,949 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-14
+2020-05-16 17:42:13,950 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ´¬²àÏËÀ­¸Ë-14
+2020-05-16 17:42:13,950 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ´¬²àÏËÀ­¸Ë-7
+2020-05-16 17:42:13,951 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-7
+2020-05-16 17:42:13,951 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ´¬²àÏËÀ­¸Ë-7
+2020-05-16 17:42:13,951 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-32
+2020-05-16 17:42:13,952 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-32
+2020-05-16 17:42:13,952 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-32
+2020-05-16 17:42:13,953 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ´¬²àÏËÀ­¸Ë-10
+2020-05-16 17:42:13,953 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-10
+2020-05-16 17:42:13,953 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ´¬²àÏËÀ­¸Ë-10
+2020-05-16 17:42:13,954 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ´¬²àÏËÀ­¸Ë-5
+2020-05-16 17:42:13,954 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-5
+2020-05-16 17:42:13,955 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ´¬²àÏËÀ­¸Ë-5
+2020-05-16 17:42:13,955 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-34
+2020-05-16 17:42:13,955 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-34
+2020-05-16 17:42:13,956 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-34
+2020-05-16 17:42:13,956 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ´¬²àÏËÀ­¸Ë-15
+2020-05-16 17:42:13,957 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-15
+2020-05-16 17:42:13,957 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ´¬²àÏËÀ­¸Ë-15
+2020-05-16 17:42:13,957 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ´¬²àÏËÀ­¸Ë-16
+2020-05-16 17:42:13,958 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-16
+2020-05-16 17:42:13,958 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ´¬²àÏËÀ­¸Ë-16
+2020-05-16 17:42:13,959 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ´¬²àÏËÀ­¸Ë-17
+2020-05-16 17:42:13,959 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-17
+2020-05-16 17:42:13,959 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ´¬²àÏËÀ­¸Ë-17
+2020-05-16 17:42:13,960 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ´¬²àÏËÀ­¸Ë-18
+2020-05-16 17:42:13,960 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-18
+2020-05-16 17:42:13,961 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ´¬²àÏËÀ­¸Ë-18
+2020-05-16 17:42:13,961 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-31
+2020-05-16 17:42:13,961 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-31
+2020-05-16 17:42:13,962 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-31
+2020-05-16 17:42:13,962 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-30
+2020-05-16 17:42:13,962 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-30
+2020-05-16 17:42:13,963 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-30
+2020-05-16 17:42:13,963 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ´¬²àÏËÀ­¸Ë-8
+2020-05-16 17:42:13,964 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-8
+2020-05-16 17:42:13,964 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ´¬²àÏËÀ­¸Ë-8
+2020-05-16 17:42:13,964 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ´¬²àÏËÀ­¸Ë-11
+2020-05-16 17:42:13,965 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-11
+2020-05-16 17:42:13,965 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ´¬²àÏËÀ­¸Ë-11
+2020-05-16 17:42:13,966 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ´¬²àÏËÀ­¸Ë-4
+2020-05-16 17:42:13,966 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-4
+2020-05-16 17:42:13,966 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ´¬²àÏËÀ­¸Ë-4
+2020-05-16 17:42:13,967 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ·À»¬¿é-29
+2020-05-16 17:42:13,968 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-29
+2020-05-16 17:42:13,968 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ·À»¬¿é-29
+2020-05-16 17:42:13,969 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ´¬²àÏËÀ­¸Ë-3
+2020-05-16 17:42:13,969 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-3
+2020-05-16 17:42:13,969 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ´¬²àÏËÀ­¸Ë-3
+2020-05-16 17:42:13,970 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ºó½¨ÖþÎï-1
+2020-05-16 17:42:13,970 INFO  ExportHelperExtension.cs: 1142 - Found 20 in ºó½¨ÖþÎï-1
+2020-05-16 17:42:13,971 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ºó½¨ÖþÎï-1
+2020-05-16 17:42:13,971 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ´¬²ÕÃÅ×é¼þ-4
+2020-05-16 17:42:13,971 INFO  ExportHelperExtension.cs: 1142 - Found 28 in ´¬²ÕÃÅ×é¼þ-4
+2020-05-16 17:42:13,972 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ´¬²ÕÃÅ×é¼þ-4
+2020-05-16 17:42:13,972 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Ç° ÂÝÐý½°×é¼þ-1
+2020-05-16 17:42:13,972 INFO  ExportHelperExtension.cs: 1142 - Found 35 in Ç° ÂÝÐý½°×é¼þ-1
+2020-05-16 17:42:13,973 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Ç° ÂÝÐý½°×é¼þ-1
+2020-05-16 17:42:13,973 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Áã¼þ1-1
+2020-05-16 17:42:13,974 INFO  ExportHelperExtension.cs: 1142 - Found 23 in Áã¼þ1-1
+2020-05-16 17:42:13,974 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Áã¼þ1-1
+2020-05-16 17:42:13,974 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Áã¼þ1-2
+2020-05-16 17:42:13,975 INFO  ExportHelperExtension.cs: 1142 - Found 23 in Áã¼þ1-2
+2020-05-16 17:42:13,975 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Áã¼þ1-2
+2020-05-16 17:42:13,976 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ÂÝÐý½°×é¼þ-1
+2020-05-16 17:42:13,976 INFO  ExportHelperExtension.cs: 1142 - Found 42 in ÂÝÐý½°×é¼þ-1
+2020-05-16 17:42:13,977 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ÂÝÐý½°×é¼þ-1
+2020-05-16 17:42:13,977 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ×Ü×°1.SLDASM
+2020-05-16 17:42:13,977 INFO  ExportHelperExtension.cs: 1142 - Found 151 in ×Ü×°1.SLDASM
+2020-05-16 17:42:13,978 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ×Ü×°1.SLDASM
+2020-05-16 17:42:13,979 INFO  ExportHelperExtension.cs: 1155 - Proceeding through assembly components
+2020-05-16 17:42:13,979 INFO  ExportHelperExtension.cs: 1167 - 71 components to check
+2020-05-16 17:42:13,979 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ÖÐ¼äºó±ß»¤°å-1
+2020-05-16 17:42:13,980 INFO  ExportHelperExtension.cs: 1142 - Found 221 in ÖÐ¼äºó±ß»¤°å-1
+2020-05-16 17:42:13,982 INFO  ExportHelperExtension.cs: 1152 - Found 1 features of type [RefAxis] in ÖÐ¼äºó±ß»¤°å-1
+2020-05-16 17:42:13,982 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Ç°¹Ì¶¨¸Ë-1
+2020-05-16 17:42:13,983 INFO  ExportHelperExtension.cs: 1142 - Found 25 in Ç°¹Ì¶¨¸Ë-1
+2020-05-16 17:42:14,000 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Ç°¹Ì¶¨¸Ë-1
+2020-05-16 17:42:14,000 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Ë¨¸Ë-4
+2020-05-16 17:42:14,007 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Ë¨¸Ë-4
+2020-05-16 17:42:14,007 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Ë¨¸Ë-4
+2020-05-16 17:42:14,008 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-2
+2020-05-16 17:42:14,008 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-2
+2020-05-16 17:42:14,009 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-2
+2020-05-16 17:42:14,009 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-1
+2020-05-16 17:42:14,009 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-1
+2020-05-16 17:42:14,010 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-1
+2020-05-16 17:42:14,010 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-35
+2020-05-16 17:42:14,010 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-35
+2020-05-16 17:42:14,011 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-35
+2020-05-16 17:42:14,011 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ¾µÏò·À»¬¿é-1
+2020-05-16 17:42:14,012 INFO  ExportHelperExtension.cs: 1142 - Found 29 in ¾µÏò·À»¬¿é-1
+2020-05-16 17:42:14,012 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ¾µÏò·À»¬¿é-1
+2020-05-16 17:42:14,012 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ´¬µ×-1
+2020-05-16 17:42:14,013 INFO  ExportHelperExtension.cs: 1142 - Found 146 in ´¬µ×-1
+2020-05-16 17:42:14,014 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ´¬µ×-1
+2020-05-16 17:42:14,014 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ÖÐ¼ä»¤°å-1
+2020-05-16 17:42:14,015 INFO  ExportHelperExtension.cs: 1142 - Found 219 in ÖÐ¼ä»¤°å-1
+2020-05-16 17:42:14,017 INFO  ExportHelperExtension.cs: 1152 - Found 1 features of type [RefAxis] in ÖÐ¼ä»¤°å-1
+2020-05-16 17:42:14,017 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Ë¨¸Ë-1
+2020-05-16 17:42:14,017 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Ë¨¸Ë-1
+2020-05-16 17:42:14,018 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Ë¨¸Ë-1
+2020-05-16 17:42:14,018 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Ë¨¸Ë-2
+2020-05-16 17:42:14,018 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Ë¨¸Ë-2
+2020-05-16 17:42:14,019 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Ë¨¸Ë-2
+2020-05-16 17:42:14,019 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Ë¨¸Ë-3
+2020-05-16 17:42:14,019 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Ë¨¸Ë-3
+2020-05-16 17:42:14,020 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Ë¨¸Ë-3
+2020-05-16 17:42:14,020 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ´¬²àÏËÀ­¸Ë-1
+2020-05-16 17:42:14,021 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-1
+2020-05-16 17:42:14,021 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ´¬²àÏËÀ­¸Ë-1
+2020-05-16 17:42:14,021 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ºóÆ½Ì¨Â¥ÌÝ-3
+2020-05-16 17:42:14,022 INFO  ExportHelperExtension.cs: 1142 - Found 33 in ºóÆ½Ì¨Â¥ÌÝ-3
+2020-05-16 17:42:14,022 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ºóÆ½Ì¨Â¥ÌÝ-3
+2020-05-16 17:42:14,023 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ´¬²àÏËÀ­¸Ë-2
+2020-05-16 17:42:14,023 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-2
+2020-05-16 17:42:14,024 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ´¬²àÏËÀ­¸Ë-2
+2020-05-16 17:42:14,024 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ºóÆ½Ì¨Â¥ÌÝ-4
+2020-05-16 17:42:14,024 INFO  ExportHelperExtension.cs: 1142 - Found 33 in ºóÆ½Ì¨Â¥ÌÝ-4
+2020-05-16 17:42:14,025 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ºóÆ½Ì¨Â¥ÌÝ-4
+2020-05-16 17:42:14,025 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ´¬Íâ¿ò-1
+2020-05-16 17:42:14,026 INFO  ExportHelperExtension.cs: 1142 - Found 109 in ´¬Íâ¿ò-1
+2020-05-16 17:42:14,026 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ´¬Íâ¿ò-1
+2020-05-16 17:42:14,027 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-27
+2020-05-16 17:42:14,027 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-27
+2020-05-16 17:42:14,028 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-27
+2020-05-16 17:42:14,028 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-28
+2020-05-16 17:42:14,028 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-28
+2020-05-16 17:42:14,029 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-28
+2020-05-16 17:42:14,029 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-12
+2020-05-16 17:42:14,029 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-12
+2020-05-16 17:42:14,030 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-12
+2020-05-16 17:42:14,030 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-13
+2020-05-16 17:42:14,031 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-13
+2020-05-16 17:42:14,031 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-13
+2020-05-16 17:42:14,031 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-8
+2020-05-16 17:42:14,032 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-8
+2020-05-16 17:42:14,032 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-8
+2020-05-16 17:42:14,033 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-14
+2020-05-16 17:42:14,033 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-14
+2020-05-16 17:42:14,033 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-14
+2020-05-16 17:42:14,034 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-15
+2020-05-16 17:42:14,034 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-15
+2020-05-16 17:42:14,035 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-15
+2020-05-16 17:42:14,035 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-22
+2020-05-16 17:42:14,035 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-22
+2020-05-16 17:42:14,036 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-22
+2020-05-16 17:42:14,036 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-6
+2020-05-16 17:42:14,036 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-6
+2020-05-16 17:42:14,037 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-6
+2020-05-16 17:42:14,037 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-9
+2020-05-16 17:42:14,038 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-9
+2020-05-16 17:42:14,038 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-9
+2020-05-16 17:42:14,038 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-16
+2020-05-16 17:42:14,039 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-16
+2020-05-16 17:42:14,039 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-16
+2020-05-16 17:42:14,039 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-23
+2020-05-16 17:42:14,040 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-23
+2020-05-16 17:42:14,040 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-23
+2020-05-16 17:42:14,041 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-3
+2020-05-16 17:42:14,041 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-3
+2020-05-16 17:42:14,041 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-3
+2020-05-16 17:42:14,042 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-17
+2020-05-16 17:42:14,042 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-17
+2020-05-16 17:42:14,043 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-17
+2020-05-16 17:42:14,043 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-19
+2020-05-16 17:42:14,043 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-19
+2020-05-16 17:42:14,044 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-19
+2020-05-16 17:42:14,044 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-10
+2020-05-16 17:42:14,044 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-10
+2020-05-16 17:42:14,045 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-10
+2020-05-16 17:42:14,045 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-20
+2020-05-16 17:42:14,046 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-20
+2020-05-16 17:42:14,046 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-20
+2020-05-16 17:42:14,046 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-4
+2020-05-16 17:42:14,047 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-4
+2020-05-16 17:42:14,047 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-4
+2020-05-16 17:42:14,048 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-5
+2020-05-16 17:42:14,048 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-5
+2020-05-16 17:42:14,048 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-5
+2020-05-16 17:42:14,049 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-21
+2020-05-16 17:42:14,049 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-21
+2020-05-16 17:42:14,050 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-21
+2020-05-16 17:42:14,050 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-18
+2020-05-16 17:42:14,050 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-18
+2020-05-16 17:42:14,051 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-18
+2020-05-16 17:42:14,051 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-7
+2020-05-16 17:42:14,051 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-7
+2020-05-16 17:42:14,052 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-7
+2020-05-16 17:42:14,057 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-24
+2020-05-16 17:42:14,057 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-24
+2020-05-16 17:42:14,058 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-24
+2020-05-16 17:42:14,058 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-25
+2020-05-16 17:42:14,059 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-25
+2020-05-16 17:42:14,059 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-25
+2020-05-16 17:42:14,059 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-11
+2020-05-16 17:42:14,060 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-11
+2020-05-16 17:42:14,060 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-11
+2020-05-16 17:42:14,061 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-26
+2020-05-16 17:42:14,061 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-26
+2020-05-16 17:42:14,061 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-26
+2020-05-16 17:42:14,062 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ´¬²àÏËÀ­¸Ë-13
+2020-05-16 17:42:14,069 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-13
+2020-05-16 17:42:14,070 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ´¬²àÏËÀ­¸Ë-13
+2020-05-16 17:42:14,070 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-33
+2020-05-16 17:42:14,070 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-33
+2020-05-16 17:42:14,071 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-33
+2020-05-16 17:42:14,071 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ´¬²àÏËÀ­¸Ë-9
+2020-05-16 17:42:14,072 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-9
+2020-05-16 17:42:14,072 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ´¬²àÏËÀ­¸Ë-9
+2020-05-16 17:42:14,072 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ´¬²àÏËÀ­¸Ë-12
+2020-05-16 17:42:14,073 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-12
+2020-05-16 17:42:14,073 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ´¬²àÏËÀ­¸Ë-12
+2020-05-16 17:42:14,074 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ´¬²àÏËÀ­¸Ë-6
+2020-05-16 17:42:14,074 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-6
+2020-05-16 17:42:14,074 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ´¬²àÏËÀ­¸Ë-6
+2020-05-16 17:42:14,075 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ´¬²àÏËÀ­¸Ë-14
+2020-05-16 17:42:14,075 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-14
+2020-05-16 17:42:14,076 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ´¬²àÏËÀ­¸Ë-14
+2020-05-16 17:42:14,076 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ´¬²àÏËÀ­¸Ë-7
+2020-05-16 17:42:14,076 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-7
+2020-05-16 17:42:14,077 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ´¬²àÏËÀ­¸Ë-7
+2020-05-16 17:42:14,077 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-32
+2020-05-16 17:42:14,077 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-32
+2020-05-16 17:42:14,078 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-32
+2020-05-16 17:42:14,078 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ´¬²àÏËÀ­¸Ë-10
+2020-05-16 17:42:14,079 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-10
+2020-05-16 17:42:14,079 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ´¬²àÏËÀ­¸Ë-10
+2020-05-16 17:42:14,079 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ´¬²àÏËÀ­¸Ë-5
+2020-05-16 17:42:14,080 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-5
+2020-05-16 17:42:14,080 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ´¬²àÏËÀ­¸Ë-5
+2020-05-16 17:42:14,081 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-34
+2020-05-16 17:42:14,081 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-34
+2020-05-16 17:42:14,081 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-34
+2020-05-16 17:42:14,082 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ´¬²àÏËÀ­¸Ë-15
+2020-05-16 17:42:14,082 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-15
+2020-05-16 17:42:14,083 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ´¬²àÏËÀ­¸Ë-15
+2020-05-16 17:42:14,083 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ´¬²àÏËÀ­¸Ë-16
+2020-05-16 17:42:14,083 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-16
+2020-05-16 17:42:14,084 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ´¬²àÏËÀ­¸Ë-16
+2020-05-16 17:42:14,084 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ´¬²àÏËÀ­¸Ë-17
+2020-05-16 17:42:14,085 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-17
+2020-05-16 17:42:14,085 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ´¬²àÏËÀ­¸Ë-17
+2020-05-16 17:42:14,085 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ´¬²àÏËÀ­¸Ë-18
+2020-05-16 17:42:14,086 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-18
+2020-05-16 17:42:14,086 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ´¬²àÏËÀ­¸Ë-18
+2020-05-16 17:42:14,087 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-31
+2020-05-16 17:42:14,087 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-31
+2020-05-16 17:42:14,087 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-31
+2020-05-16 17:42:14,088 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-30
+2020-05-16 17:42:14,088 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-30
+2020-05-16 17:42:14,089 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-30
+2020-05-16 17:42:14,089 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ´¬²àÏËÀ­¸Ë-8
+2020-05-16 17:42:14,089 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-8
+2020-05-16 17:42:14,090 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ´¬²àÏËÀ­¸Ë-8
+2020-05-16 17:42:14,090 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ´¬²àÏËÀ­¸Ë-11
+2020-05-16 17:42:14,091 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-11
+2020-05-16 17:42:14,092 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ´¬²àÏËÀ­¸Ë-11
+2020-05-16 17:42:14,093 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ´¬²àÏËÀ­¸Ë-4
+2020-05-16 17:42:14,094 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-4
+2020-05-16 17:42:14,095 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ´¬²àÏËÀ­¸Ë-4
+2020-05-16 17:42:14,096 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ·À»¬¿é-29
+2020-05-16 17:42:14,097 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ·À»¬¿é-29
+2020-05-16 17:42:14,098 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ·À»¬¿é-29
+2020-05-16 17:42:14,099 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ´¬²àÏËÀ­¸Ë-3
+2020-05-16 17:42:14,100 INFO  ExportHelperExtension.cs: 1142 - Found 38 in ´¬²àÏËÀ­¸Ë-3
+2020-05-16 17:42:14,101 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ´¬²àÏËÀ­¸Ë-3
+2020-05-16 17:42:14,102 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ºó½¨ÖþÎï-1
+2020-05-16 17:42:14,103 INFO  ExportHelperExtension.cs: 1142 - Found 20 in ºó½¨ÖþÎï-1
+2020-05-16 17:42:14,104 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ºó½¨ÖþÎï-1
+2020-05-16 17:42:14,105 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ´¬²ÕÃÅ×é¼þ-4
+2020-05-16 17:42:14,106 INFO  ExportHelperExtension.cs: 1142 - Found 28 in ´¬²ÕÃÅ×é¼þ-4
+2020-05-16 17:42:14,107 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ´¬²ÕÃÅ×é¼þ-4
+2020-05-16 17:42:14,108 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Ç° ÂÝÐý½°×é¼þ-1
+2020-05-16 17:42:14,109 INFO  ExportHelperExtension.cs: 1142 - Found 35 in Ç° ÂÝÐý½°×é¼þ-1
+2020-05-16 17:42:14,110 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Ç° ÂÝÐý½°×é¼þ-1
+2020-05-16 17:42:14,111 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Áã¼þ1-1
+2020-05-16 17:42:14,112 INFO  ExportHelperExtension.cs: 1142 - Found 23 in Áã¼þ1-1
+2020-05-16 17:42:14,113 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Áã¼þ1-1
+2020-05-16 17:42:14,114 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Áã¼þ1-2
+2020-05-16 17:42:14,115 INFO  ExportHelperExtension.cs: 1142 - Found 23 in Áã¼þ1-2
+2020-05-16 17:42:14,117 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Áã¼þ1-2
+2020-05-16 17:42:14,118 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ÂÝÐý½°×é¼þ-1
+2020-05-16 17:42:14,119 INFO  ExportHelperExtension.cs: 1142 - Found 42 in ÂÝÐý½°×é¼þ-1
+2020-05-16 17:42:14,120 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ÂÝÐý½°×é¼þ-1
+2020-05-16 17:42:14,219 INFO  ExportPropertyManager.cs: 1184 - AfterClose called. This method no longer throws an Exception. It just silently does nothing. Ok, except for this logging message
+2020-05-16 17:44:56,175 INFO  AssemblyExportForm.cs: 254 - Completing URDF export
+2020-05-16 17:44:56,240 INFO  Serialization.cs: 275 - URDF Configuration found
+<Link z:Id="i1" xmlns="http://schemas.datacontract.org/2004/07/SW2URDF" xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns:z="http://schemas.microsoft.com/2003/10/Serialization/"><Attributes><Attribute z:Id="i2"><AttributeType>name</AttributeType><IsRequired>true</IsRequired><Value i:type="a:string" xmlns:a="http://www.w3.org/2001/XMLSchema">base_link</Value></Attribute></Attributes><ChildElements><URDFElement z:Id="i3" i:type="Inertial"><Attributes/><ChildElements><URDFElement z:Id="i4" i:type="Origin"><Attributes><Attribute z:Id="i5"><AttributeType>xyz</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>0</a:double><a:double>0</a:double><a:double>0</a:double></Value></Attribute><Attribute z:Id="i6"><AttributeType>rpy</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>0</a:double><a:double>0</a:double><a:double>0</a:double></Value></Attribute></Attributes><ChildElements/><ElementName>origin</ElementName><required>false</required><RPYAttribute z:Ref="i6"/><XYZAttribute z:Ref="i5"/><isCustomized>false</isCustomized></URDFElement><URDFElement z:Id="i7" i:type="Mass"><Attributes><Attribute z:Id="i8"><AttributeType>value</AttributeType><IsRequired>true</IsRequired><Value i:type="a:double" xmlns:a="http://www.w3.org/2001/XMLSchema">0</Value></Attribute></Attributes><ChildElements/><ElementName>mass</ElementName><required>false</required><ValueAttribute z:Ref="i8"/></URDFElement><URDFElement z:Id="i9" i:type="Inertia"><Attributes><Attribute z:Id="i10"><AttributeType>ixx</AttributeType><IsRequired>true</IsRequired><Value i:type="a:double" xmlns:a="http://www.w3.org/2001/XMLSchema">0</Value></Attribute><Attribute z:Id="i11"><AttributeType>ixy</AttributeType><IsRequired>true</IsRequired><Value i:type="a:double" xmlns:a="http://www.w3.org/2001/XMLSchema">0</Value></Attribute><Attribute z:Id="i12"><AttributeType>ixz</AttributeType><IsRequired>true</IsRequired><Value i:type="a:double" xmlns:a="http://www.w3.org/2001/XMLSchema">0</Value></Attribute><Attribute z:Id="i13"><AttributeType>iyy</AttributeType><IsRequired>true</IsRequired><Value i:type="a:double" xmlns:a="http://www.w3.org/2001/XMLSchema">0</Value></Attribute><Attribute z:Id="i14"><AttributeType>iyz</AttributeType><IsRequired>true</IsRequired><Value i:type="a:double" xmlns:a="http://www.w3.org/2001/XMLSchema">0</Value></Attribute><Attribute z:Id="i15"><AttributeType>izz</AttributeType><IsRequired>true</IsRequired><Value i:type="a:double" xmlns:a="http://www.w3.org/2001/XMLSchema">0</Value></Attribute></Attributes><ChildElements/><ElementName>inertia</ElementName><required>false</required><IxxAttribute z:Ref="i10"/><IxyAttribute z:Ref="i11"/><IxzAttribute z:Ref="i12"/><IyyAttribute z:Ref="i13"/><IyzAttribute z:Ref="i14"/><IzzAttribute z:Ref="i15"/></URDFElement></ChildElements><ElementName>inertial</ElementName><required>false</required><Inertia z:Ref="i9"/><Mass z:Ref="i7"/><Origin z:Ref="i4"/></URDFElement><URDFElement z:Id="i16" i:type="Visual"><Attributes/><ChildElements><URDFElement z:Id="i17" i:type="Origin"><Attributes><Attribute z:Id="i18"><AttributeType>xyz</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>0</a:double><a:double>0</a:double><a:double>0</a:double></Value></Attribute><Attribute z:Id="i19"><AttributeType>rpy</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>0</a:double><a:double>0</a:double><a:double>0</a:double></Value></Attribute></Attributes><ChildElements/><ElementName>origin</ElementName><required>false</required><RPYAttribute z:Ref="i19"/><XYZAttribute z:Ref="i18"/><isCustomized>false</isCustomized></URDFElement><URDFElement z:Id="i20" i:type="Geometry"><Attributes/><ChildElements><URDFElement z:Id="i21" i:type="Mesh"><Attributes><Attribute z:Id="i22"><AttributeType>filename</AttributeType><IsRequired>true</IsRequired><Value i:nil="true"/></Attribute></Attributes><ChildElements/><ElementName>mesh</ElementName><required>false</required><FilenameAttribute z:Ref="i22"/></URDFElement></ChildElements><ElementName>geometry</ElementName><required>true</required><Mesh z:Ref="i21"/></URDFElement><URDFElement z:Id="i23" i:type="Material"><Attributes><Attribute z:Id="i24"><AttributeType>name</AttributeType><IsRequired>true</IsRequired><Value i:type="a:string" xmlns:a="http://www.w3.org/2001/XMLSchema"/></Attribute></Attributes><ChildElements><URDFElement z:Id="i25" i:type="Color"><Attributes><Attribute z:Id="i26"><AttributeType>rgba</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>1</a:double><a:double>1</a:double><a:double>1</a:double><a:double>1</a:double></Value></Attribute></Attributes><ChildElements/><ElementName>color</ElementName><required>false</required><RGBAAttribute z:Ref="i26"/></URDFElement><URDFElement z:Id="i27" i:type="Texture"><Attributes><Attribute z:Id="i28"><AttributeType>filename</AttributeType><IsRequired>true</IsRequired><Value i:nil="true"/></Attribute></Attributes><ChildElements/><ElementName>texture</ElementName><required>false</required><FilenameAttribute z:Ref="i28"/><wFilename/></URDFElement></ChildElements><ElementName>material</ElementName><required>false</required><Color z:Ref="i25"/><NameAttribute z:Ref="i24"/><Texture z:Ref="i27"/></URDFElement></ChildElements><ElementName>visual</ElementName><required>false</required><Geometry z:Ref="i20"/><Material z:Ref="i23"/><Origin z:Ref="i17"/></URDFElement><URDFElement z:Id="i29" i:type="Collision"><Attributes/><ChildElements><URDFElement z:Id="i30" i:type="Origin"><Attributes><Attribute z:Id="i31"><AttributeType>xyz</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>0</a:double><a:double>0</a:double><a:double>0</a:double></Value></Attribute><Attribute z:Id="i32"><AttributeType>rpy</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>0</a:double><a:double>0</a:double><a:double>0</a:double></Value></Attribute></Attributes><ChildElements/><ElementName>origin</ElementName><required>false</required><RPYAttribute z:Ref="i32"/><XYZAttribute z:Ref="i31"/><isCustomized>false</isCustomized></URDFElement><URDFElement z:Id="i33" i:type="Geometry"><Attributes/><ChildElements><URDFElement z:Id="i34" i:type="Mesh"><Attributes><Attribute z:Id="i35"><AttributeType>filename</AttributeType><IsRequired>true</IsRequired><Value i:nil="true"/></Attribute></Attributes><ChildElements/><ElementName>mesh</ElementName><required>false</required><FilenameAttribute z:Ref="i35"/></URDFElement></ChildElements><ElementName>geometry</ElementName><required>true</required><Mesh z:Ref="i34"/></URDFElement></ChildElements><ElementName>collision</ElementName><required>false</required><Geometry z:Ref="i33"/><Origin z:Ref="i30"/></URDFElement><URDFElement z:Id="i36" i:type="Joint"><Attributes><Attribute z:Id="i37"><AttributeType>name</AttributeType><IsRequired>true</IsRequired><Value i:type="a:string" xmlns:a="http://www.w3.org/2001/XMLSchema"/></Attribute><Attribute z:Id="i38"><AttributeType>type</AttributeType><IsRequired>true</IsRequired><Value i:type="a:string" xmlns:a="http://www.w3.org/2001/XMLSchema"/></Attribute></Attributes><ChildElements><URDFElement z:Id="i39" i:type="Origin"><Attributes><Attribute z:Id="i40"><AttributeType>xyz</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>0</a:double><a:double>0</a:double><a:double>0</a:double></Value></Attribute><Attribute z:Id="i41"><AttributeType>rpy</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>0</a:double><a:double>0</a:double><a:double>0</a:double></Value></Attribute></Attributes><ChildElements/><ElementName>origin</ElementName><required>false</required><RPYAttribute z:Ref="i41"/><XYZAttribute z:Ref="i40"/><isCustomized>false</isCustomized></URDFElement><URDFElement z:Id="i42" i:type="ParentLink"><Attributes><Attribute z:Id="i43"><AttributeType>link</AttributeType><IsRequired>true</IsRequired><Value i:type="a:string" xmlns:a="http://www.w3.org/2001/XMLSchema"/></Attribute></Attributes><ChildElements/><ElementName>parent</ElementName><required>true</required><NameAttribute z:Ref="i43"/></URDFElement><URDFElement z:Id="i44" i:type="ChildLink"><Attributes><Attribute z:Id="i45"><AttributeType>link</AttributeType><IsRequired>true</IsRequired><Value i:type="a:string" xmlns:a="http://www.w3.org/2001/XMLSchema"/></Attribute></Attributes><ChildElements/><ElementName>child</ElementName><required>true</required><NameAttribute z:Ref="i45"/></URDFElement><URDFElement z:Id="i46" i:type="Axis"><Attributes><Attribute z:Id="i47"><AttributeType>xyz</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>0</a:double><a:double>0</a:double><a:double>0</a:double></Value></Attribute></Attributes><ChildElements/><ElementName>axis</ElementName><required>false</required><XYZAttribute z:Ref="i47"/></URDFElement><URDFElement z:Id="i48" i:type="Limit"><Attributes><Attribute z:Id="i49"><AttributeType>lower</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i50"><AttributeType>upper</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i51"><AttributeType>effort</AttributeType><IsRequired>true</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i52"><AttributeType>velocity</AttributeType><IsRequired>true</IsRequired><Value i:nil="true"/></Attribute></Attributes><ChildElements/><ElementName>limit</ElementName><required>false</required><EffortAttribute z:Ref="i51"/><LowerAttribute z:Ref="i49"/><UpperAttribute z:Ref="i50"/><VelocityAttribute z:Ref="i52"/></URDFElement><URDFElement z:Id="i53" i:type="Calibration"><Attributes><Attribute z:Id="i54"><AttributeType>rising</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i55"><AttributeType>falling</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute></Attributes><ChildElements/><ElementName>calibration</ElementName><required>false</required><FallingAttribute z:Ref="i55"/><RisingAttribute z:Ref="i54"/></URDFElement><URDFElement z:Id="i56" i:type="Dynamics"><Attributes><Attribute z:Id="i57"><AttributeType>damping</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i58"><AttributeType>friction</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute></Attributes><ChildElements/><ElementName>dynamics</ElementName><required>false</required><DampingAttribute z:Ref="i57"/><FrictionAttribute z:Ref="i58"/></URDFElement><URDFElement z:Id="i59" i:type="SafetyController"><Attributes><Attribute z:Id="i60"><AttributeType>soft_upper</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i61"><AttributeType>soft_lower</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i62"><AttributeType>k_position</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i63"><AttributeType>k_velocity</AttributeType><IsRequired>true</IsRequired><Value i:nil="true"/></Attribute></Attributes><ChildElements/><ElementName>safety_controller</ElementName><required>false</required><KPositionAttribute z:Ref="i62"/><KVelocityAttribute z:Ref="i63"/><SoftLowerAttribute z:Ref="i61"/><SoftUpperAttribute z:Ref="i60"/></URDFElement><URDFElement z:Id="i64" i:type="Mimic"><Attributes><Attribute z:Id="i65"><AttributeType>joint</AttributeType><IsRequired>true</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i66"><AttributeType>multiplier</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i67"><AttributeType>offset</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute></Attributes><ChildElements/><ElementName>mimic</ElementName><required>false</required><JointNameAttribute z:Ref="i65"/><MultiplierAttribute z:Ref="i66"/><OffsetAttribute z:Ref="i67"/></URDFElement></ChildElements><ElementName>joint</ElementName><required>false</required><Axis z:Ref="i46"/><AxisName/><Calibration z:Ref="i53"/><Child z:Ref="i44"/><CoordinateSystemName>Automatically Generate</CoordinateSystemName><Dynamics z:Ref="i56"/><Limit z:Ref="i48"/><Mimic z:Ref="i64"/><NameAttribute z:Ref="i37"/><Origin z:Ref="i39"/><Parent z:Ref="i42"/><Safety z:Ref="i59"/><TypeAttribute z:Ref="i38"/></URDFElement></ChildElements><ElementName>link</ElementName><required>true</required><Children/><Collision z:Ref="i29"/><Inertial z:Ref="i3"/><Joint z:Ref="i36"/><NameAttribute z:Ref="i2"/><Parent i:nil="true"/><STLQualityFine>false</STLQualityFine><SWComponentPIDs xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:base64Binary>QB8AAAUAAAD//v8LuofLZWhoxH72Ti0AMQBAADtgxYgxAAQAAAAQAAAAAQAAAAEAAAD+AAAA</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8J9pb2TjEALQAyAEAAO2DFiDEABAAAABAAAAABAAAAAQAAACMBAAA=</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8J9pb2TjEALQAxAEAAO2DFiDEABAAAABAAAAABAAAAAQAAAB4BAAA=</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8NTVIgALqHy2VoaMR+9k4tADEAQAA7YMWIMQAEAAAAEAAAAAEAAAABAAAAAgEAAA==</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8LOYIxguiVxH72Ti0ANABAADtgxYgxAAQAAAAQAAAAAQAAAAEAAADqAAAA</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8KDlT6XlF7aXItADEAQAA7YMWIMQAEAAAAEAAAAAEAAAABAAAA0wAAAA==</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8LOYKnT6R+yWJGZy0AMwBAADtgxYgxAAQAAAAQAAAAAQAAAAEAAACyAAAA</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8KMpbRbldXLQAyADkAQAA7YMWIMQAEAAAAEAAAAAEAAAABAAAAlgAAAA==</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8LOYKnT6R+yWJGZy0ANABAADtgxYgxAAQAAAAQAAAAAQAAAAEAAACzAAAA</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8MOYKnT6R+yWJGZy0AMQAxAEAAO2DFiDEABAAAABAAAAABAAAAAQAAALoAAAA=</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8LOYKnT6R+yWJGZy0AOABAADtgxYgxAAQAAAAQAAAAAQAAAAEAAAC3AAAA</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8KMpbRbldXLQAzADAAQAA7YMWIMQAEAAAAEAAAAAEAAAABAAAAlwAAAA==</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8KMpbRbldXLQAzADEAQAA7YMWIMQAEAAAAEAAAAAEAAAABAAAAmAAAAA==</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8MOYKnT6R+yWJGZy0AMQA4AEAAO2DFiDEABAAAABAAAAABAAAAAQAAAMEAAAA=</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8MOYKnT6R+yWJGZy0AMQA3AEAAO2DFiDEABAAAABAAAAABAAAAAQAAAMAAAAA=</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8MOYKnT6R+yWJGZy0AMQA2AEAAO2DFiDEABAAAABAAAAABAAAAAQAAAL8AAAA=</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8MOYKnT6R+yWJGZy0AMQA1AEAAO2DFiDEABAAAABAAAAABAAAAAQAAAL4AAAA=</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8KMpbRbldXLQAzADQAQAA7YMWIMQAEAAAAEAAAAAEAAAABAAAAmwAAAA==</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8LOYKnT6R+yWJGZy0ANQBAADtgxYgxAAQAAAAQAAAAAQAAAAEAAAC0AAAA</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8MOYKnT6R+yWJGZy0AMQAwAEAAO2DFiDEABAAAABAAAAABAAAAAQAAALkAAAA=</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8KMpbRbldXLQAzADIAQAA7YMWIMQAEAAAAEAAAAAEAAAABAAAAmQAAAA==</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8LOYKnT6R+yWJGZy0ANwBAADtgxYgxAAQAAAAQAAAAAQAAAAEAAAC2AAAA</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8MOYKnT6R+yWJGZy0AMQA0AEAAO2DFiDEABAAAABAAAAABAAAAAQAAAL0AAAA=</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8LOYKnT6R+yWJGZy0ANgBAADtgxYgxAAQAAAAQAAAAAQAAAAEAAAC1AAAA</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8MOYKnT6R+yWJGZy0AMQAyAEAAO2DFiDEABAAAABAAAAABAAAAAQAAALsAAAA=</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8LOYKnT6R+yWJGZy0AOQBAADtgxYgxAAQAAAAQAAAAAQAAAAEAAAC4AAAA</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8KMpbRbldXLQAzADMAQAA7YMWIMQAEAAAAEAAAAAEAAAABAAAAmgAAAA==</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8MOYKnT6R+yWJGZy0AMQAzAEAAO2DFiDEABAAAABAAAAABAAAAAQAAALwAAAA=</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8KMpbRbldXLQAyADYAQAA7YMWIMQAEAAAAEAAAAAEAAAABAAAAkwAAAA==</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8KMpbRbldXLQAxADEAQAA7YMWIMQAEAAAAEAAAAAEAAAABAAAAhAAAAA==</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8KMpbRbldXLQAyADUAQAA7YMWIMQAEAAAAEAAAAAEAAAABAAAAkgAAAA==</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8KMpbRbldXLQAyADQAQAA7YMWIMQAEAAAAEAAAAAEAAAABAAAAkQAAAA==</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8JMpbRbldXLQA3AEAAO2DFiDEABAAAABAAAAABAAAAAQAAAIAAAAA=</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8KMpbRbldXLQAxADgAQAA7YMWIMQAEAAAAEAAAAAEAAAABAAAAiwAAAA==</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8KMpbRbldXLQAyADEAQAA7YMWIMQAEAAAAEAAAAAEAAAABAAAAjgAAAA==</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8JMpbRbldXLQA1AEAAO2DFiDEABAAAABAAAAABAAAAAQAAAH4AAAA=</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8JMpbRbldXLQA0AEAAO2DFiDEABAAAABAAAAABAAAAAQAAAH0AAAA=</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8KMpbRbldXLQAyADAAQAA7YMWIMQAEAAAAEAAAAAEAAAABAAAAjQAAAA==</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8KMpbRbldXLQAxADAAQAA7YMWIMQAEAAAAEAAAAAEAAAABAAAAgwAAAA==</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8KMpbRbldXLQAxADkAQAA7YMWIMQAEAAAAEAAAAAEAAAABAAAAjAAAAA==</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8KMpbRbldXLQAxADcAQAA7YMWIMQAEAAAAEAAAAAEAAAABAAAAigAAAA==</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8JMpbRbldXLQAzAEAAO2DFiDEABAAAABAAAAABAAAAAQAAAHwAAAA=</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8KMpbRbldXLQAyADMAQAA7YMWIMQAEAAAAEAAAAAEAAAABAAAAkAAAAA==</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8KMpbRbldXLQAxADYAQAA7YMWIMQAEAAAAEAAAAAEAAAABAAAAiQAAAA==</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8JMpbRbldXLQA5AEAAO2DFiDEABAAAABAAAAABAAAAAQAAAIIAAAA=</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8JMpbRbldXLQA2AEAAO2DFiDEABAAAABAAAAABAAAAAQAAAH8AAAA=</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8KMpbRbldXLQAyADIAQAA7YMWIMQAEAAAAEAAAAAEAAAABAAAAjwAAAA==</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8KMpbRbldXLQAxADUAQAA7YMWIMQAEAAAAEAAAAAEAAAABAAAAiAAAAA==</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8KMpbRbldXLQAxADQAQAA7YMWIMQAEAAAAEAAAAAEAAAABAAAAhwAAAA==</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8JMpbRbldXLQA4AEAAO2DFiDEABAAAABAAAAABAAAAAQAAAIEAAAA=</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8KMpbRbldXLQAxADMAQAA7YMWIMQAEAAAAEAAAAAEAAAABAAAAhgAAAA==</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8KMpbRbldXLQAxADIAQAA7YMWIMQAEAAAAEAAAAAEAAAABAAAAhQAAAA==</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8KMpbRbldXLQAyADgAQAA7YMWIMQAEAAAAEAAAAAEAAAABAAAAlQAAAA==</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8KMpbRbldXLQAyADcAQAA7YMWIMQAEAAAAEAAAAAEAAAABAAAAlAAAAA==</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8JOYIWWUZoLQAxAEAAO2DFiDEABAAAABAAAAABAAAAAQAAABIAAAA=</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8LDlRzXvBTfGmvaC0ANABAADtgxYgxAAQAAAAQAAAAAQAAAAEAAABEAAAA</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8LOYKnT6R+yWJGZy0AMgBAADtgxYgxAAQAAAAQAAAAAQAAAAEAAACpAAAA</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8LDlRzXvBTfGmvaC0AMwBAADtgxYgxAAQAAAAQAAAAAQAAAAEAAABAAAAA</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8LOYKnT6R+yWJGZy0AMQBAADtgxYgxAAQAAAAQAAAAAQAAAAEAAACjAAAA</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8IE2hGZy0AMwBAADtgxYgxAAQAAAAQAAAAAQAAAAEAAABYAAAA</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8IE2hGZy0AMgBAADtgxYgxAAQAAAAQAAAAAQAAAAEAAABVAAAA</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8IE2hGZy0AMQBAADtgxYgxAAQAAAAQAAAAAQAAAAEAAABSAAAA</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8KLU70laRif2ctADEAQAA7YMWIMQAEAAAAEAAAAAEAAAABAAAAwgAAAA==</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8IOYKVXi0AMQBAADtgxYgxAAQAAAAQAAAAAQAAAAEAAABKAAAA</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8LXJURVDKW0W5XVy0AMQBAADtgxYgxAAQAAAAQAAAAAQAAAAEAAACiAAAA</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8KMpbRbldXLQAzADUAQAA7YMWIMQAEAAAAEAAAAAEAAAABAAAAnAAAAA==</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8JMpbRbldXLQAxAEAAO2DFiDEABAAAABAAAAABAAAAAQAAAF8AAAA=</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8JMpbRbldXLQAyAEAAO2DFiDEABAAAABAAAAABAAAAAQAAAGcAAAA=</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8IE2hGZy0ANABAADtgxYgxAAQAAAAQAAAAAQAAAAEAAABbAAAA</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8KTVL6VppbRmctADEAQAA7YMWIMQAEAAAAEAAAAAEAAAABAAAAygAAAA==</a:base64Binary><a:base64Binary>QB8AAAUAAAD//v8MLU70lQ5UuY+kYn9nLQAxAEAAO2DFiDEABAAAABAAAAABAAAAAQAAAMYAAAA=</a:base64Binary></SWComponentPIDs><SWMainComponentPID i:nil="true"/><Visual z:Ref="i16"/><isFixedFrame>false</isFixedFrame><isIncomplete>false</isIncomplete></Link>
+2020-05-16 17:45:30,098 INFO  AssemblyExportForm.cs: 308 - Saving URDF package to F:\master\ÏîÄ¿\boat.SLDASM
+2020-05-16 17:45:30,100 INFO  ExportHelper.cs: 147 - Beginning the export process
+2020-05-16 17:45:30,102 INFO  ExportHelper.cs: 153 - Creating package directories with name boat.SLDASM and save path F:\master\ÏîÄ¿
+2020-05-16 17:46:01,810 INFO  ExportHelper.cs: 162 - Creating CMakeLists.txt at F:\master\ÏîÄ¿\boat.SLDASM\CMakeLists.txt
+2020-05-16 17:46:01,816 INFO  ExportHelper.cs: 166 - Creating joint names config at F:\master\ÏîÄ¿\boat.SLDASM\config\joint_names_boat.SLDASM.yaml
+2020-05-16 17:46:01,821 INFO  ExportHelper.cs: 170 - Creating package.xml at F:\master\ÏîÄ¿\boat.SLDASM\package.xml
+2020-05-16 17:46:01,822 INFO  PackageXMLWriter.cs: 21 - Creating package.xml at F:\master\ÏîÄ¿\boat.SLDASM\package.xml
+2020-05-16 17:46:01,829 INFO  ExportHelper.cs: 177 - Creating RVIZ launch file in F:\master\ÏîÄ¿\boat.SLDASM\launch\
+2020-05-16 17:46:01,835 INFO  ExportHelper.cs: 182 - Creating Gazebo launch file in F:\master\ÏîÄ¿\boat.SLDASM\launch\
+2020-05-16 17:46:01,840 INFO  ExportHelper.cs: 187 - Saving existing STL preferences
+2020-05-16 17:46:01,841 INFO  ExportHelper.cs: 451 - Saving users preferences
+2020-05-16 17:46:01,842 INFO  ExportHelper.cs: 190 - Modifying STL preferences
+2020-05-16 17:46:01,842 INFO  ExportHelper.cs: 465 - Setting STL preferences
+2020-05-16 17:46:01,931 INFO  ExportHelper.cs: 196 - Found 3 hidden components Ç° ÂÝÐý½°×é¼þ-1/ÂÝÐý½°¼ÜB-1, Ç° ÂÝÐý½°×é¼þ-1/ÂÝÐý½°¼Ü-1, ÂÝÐý½°×é¼þ-1/ÂÝÐý½°¼Ü-1
+2020-05-16 17:46:01,931 INFO  ExportHelper.cs: 197 - Hiding all components
+2020-05-16 17:46:02,724 INFO  ExportHelper.cs: 204 - Beginning individual files export
+2020-05-16 17:46:02,727 INFO  ExportHelper.cs: 270 - Exporting link: base_link
+2020-05-16 17:46:02,728 INFO  ExportHelper.cs: 272 - Link base_link has 0 children
+2020-05-16 17:46:02,729 INFO  ExportHelper.cs: 318 - base_link: Exporting STL with coordinate frame Origin_global
+2020-05-16 17:46:02,729 INFO  ExportHelper.cs: 323 - base_link: Reference geometry name 
+2020-05-16 17:46:03,488 INFO  ExportHelper.cs: 331 - Saving STL to F:\master\ÏîÄ¿\boat.SLDASM\meshes\base_link.STL
+2020-05-16 17:46:07,397 INFO  ExportHelper.cs: 406 - Removing SW header in STL file
+2020-05-16 17:46:07,403 INFO  ExportHelper.cs: 145 - Showing all components except previously hidden components
+2020-05-16 17:46:10,551 INFO  ExportHelper.cs: 145 - Resetting STL preferences
+2020-05-16 17:46:10,552 INFO  ExportHelper.cs: 479 - Returning STL preferences to user preferences
+2020-05-16 17:46:10,552 INFO  ExportHelper.cs: 228 - Writing URDF file to F:\master\ÏîÄ¿\boat.SLDASM\urdf\boat.SLDASM.urdf
+2020-05-16 17:46:10,608 INFO  CSVImportExport.cs: 32 - Writing CSV file F:\master\ÏîÄ¿\boat.SLDASM\urdf\boat.SLDASM.csv
+2020-05-16 17:46:10,637 ERROR CSVImportExport.cs: 132 - The following columns were not written to the CSV: Link.Joint.ChildLink.link,
+2020-05-16 17:46:10,642 INFO  ExportHelper.cs: 234 - Copying log file
+2020-05-16 17:46:10,646 INFO  ExportHelper.cs: 440 - Copying C:\Users\cheng\sw2urdf_logs\sw2urdf.log to F:\master\ÏîÄ¿\boat.SLDASM\export.log
